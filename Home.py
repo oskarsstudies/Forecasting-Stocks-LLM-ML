@@ -16,5 +16,3 @@ Welcome to the Stock Analysis and forecasting Website. This application offers v
 
 Navigate through the sidebar to access different parts of the application.
 """)
-
-# Further configuration or initialization code can go here
