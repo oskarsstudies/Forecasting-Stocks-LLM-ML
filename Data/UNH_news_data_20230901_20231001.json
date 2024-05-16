@@ -1,0 +1,4388 @@
+{
+    "items": "69",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Winning In Court Isn't Everything For Biden's Antitrust Regulators",
+            "url": "https://www.forbes.com/sites/owentedford/2023/09/29/winning-isnt-everything-for-bidens-antitrust-regulators/",
+            "time_published": "20230929T152303",
+            "authors": [
+                "Owen Tedford"
+            ],
+            "summary": "President Biden's antitrust regulators are taking on tech giants, but victory in court is not the only way for them to win.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/6516eac3678b32a2abe69008/0x0.jpg?format=jpg&width=1200",
+            "source": "Forbes",
+            "category_within_source": "Markets",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.163162,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ATVI",
+                    "relevance_score": "0.059341",
+                    "ticker_sentiment_score": "-0.077752",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.059341",
+                    "ticker_sentiment_score": "0.070075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.059341",
+                    "ticker_sentiment_score": "0.070075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.059341",
+                    "ticker_sentiment_score": "-0.077752",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UK regulator clears $1.52 billion UnitedHealth-EMIS deal",
+            "url": "https://www.reuters.com/markets/deals/uk-regulator-clears-152-bln-unitedhealth-emis-deal-2023-09-29/",
+            "time_published": "20230929T111933",
+            "authors": [
+                "Reuters"
+            ],
+            "summary": "Sept 29 ( Reuters ) - Britain's competition regulator said on Friday it has cleared UnitedHealth Group's ( UNH.N ) 1.24 billion-pound ( $1.52 billion ) acquisition of healthcare technology firm EMIS ( EMISG.L ) .",
+            "banner_image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=159",
+            "source": "Reuters",
+            "category_within_source": "Markets",
+            "source_domain": "www.reuters.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.13303,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.674691",
+                    "ticker_sentiment_score": "0.269349",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Gains As McCarthy Makes Shutdown Pledge; This Warren Buffett Stock Nears Entry",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-gains-as-kevin-mccarthy-makes-shutdown-pledge-this-warren-buffett-stock-nears-entry/",
+            "time_published": "20230928T193100",
+            "authors": [
+                "MICHAEL LARKIN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Jones Gains As McCarthy Makes Shutdown Pledge. This ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2023/09/SMT12amMcCarthyAP.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999987"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.990893"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.145729,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.165314",
+                    "ticker_sentiment_score": "0.04098",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.083107",
+                    "ticker_sentiment_score": "0.157729",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WWD",
+                    "relevance_score": "0.165314",
+                    "ticker_sentiment_score": "0.276239",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CAT",
+                    "relevance_score": "0.083107",
+                    "ticker_sentiment_score": "0.157729",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KMX",
+                    "relevance_score": "0.124378",
+                    "ticker_sentiment_score": "0.015234",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "J",
+                    "relevance_score": "0.124378",
+                    "ticker_sentiment_score": "0.030412",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JEF",
+                    "relevance_score": "0.165314",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SIRI",
+                    "relevance_score": "0.083107",
+                    "ticker_sentiment_score": "0.150219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.083107",
+                    "ticker_sentiment_score": "0.242374",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.083107",
+                    "ticker_sentiment_score": "-0.345999",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Insurers and drug-industry middlemen are cashing in on the weight-loss drug frenzy",
+            "url": "https://www.businessinsider.com/health-insurers-could-profit-weight-loss-diabetes-drugs-ozempic-wegovy-2023-9",
+            "time_published": "20230928T142400",
+            "authors": [
+                "Shelby Livingston"
+            ],
+            "summary": "Health insurers could profit from weight-loss, diabetes drugs Ozempic, Wegovy - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.213125,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.319521",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.191555",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.185155",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Adial Pharmaceuticals to Host a Virtual Key Opinion Leader Webinar to Discuss the Unmet Need in Alcohol Use Disorder",
+            "url": "https://www.globenewswire.com/news-release/2023/09/28/2751053/26135/en/Adial-Pharmaceuticals-to-Host-a-Virtual-Key-Opinion-Leader-Webinar-to-Discuss-the-Unmet-Need-in-Alcohol-Use-Disorder.html",
+            "time_published": "20230928T110000",
+            "authors": [
+                "Inc",
+                "Adial Pharmaceuticals"
+            ],
+            "summary": "Pre-registration for the LinkedIn Live event will begin on Thursday, September ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/e6fc09f7-5847-46c8-9294-f51162a7e518",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.087388,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADIL",
+                    "relevance_score": "0.267804",
+                    "ticker_sentiment_score": "0.016272",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HUM",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.094461",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.094461",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "4 Mutual Funds to Buy Amid Ongoing Market Volatility",
+            "url": "https://www.zacks.com/stock/news/2156862/4-mutual-funds-to-buy-amid-ongoing-market-volatility",
+            "time_published": "20230928T095500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "During times of market volatility, selecting stable mutual funds like FSUTX, FRUAX, JNGLX and PRHSX is a prudent decision. These funds offer a combination of stability and growth potential.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8b/1160.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.98396"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.142911,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HESG",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.136539",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZN",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.04869",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EIX",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.049686",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JHG",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.148545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SO",
+                    "relevance_score": "0.104002",
+                    "ticker_sentiment_score": "0.052519",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.104002",
+                    "ticker_sentiment_score": "0.025951",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.104002",
+                    "ticker_sentiment_score": "0.052519",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF  ( IHF ) ?",
+            "url": "https://www.zacks.com/stock/news/2155924/should-you-invest-in-the-ishares-us-healthcare-providers-etf-ihf",
+            "time_published": "20230927T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default86.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999919"
+                }
+            ],
+            "overall_sentiment_score": 0.176003,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.075635",
+                    "ticker_sentiment_score": "0.030258",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.150592",
+                    "ticker_sentiment_score": "0.076137",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ELV",
+                    "relevance_score": "0.150592",
+                    "ticker_sentiment_score": "0.076137",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.150592",
+                    "ticker_sentiment_score": "0.076137",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group Unusual Options Activity - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34920622/unitedhealth-group-unusual-options-activity",
+            "time_published": "20230926T173049",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "A whale with a lot of money to spend has taken a noticeably bearish stance on UnitedHealth Group. Looking at options history for UnitedHealth Group UNH we detected 10 strange trades. If we consider the specifics of each trade, it is accurate to state that 10% of the investors opened trades with ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.130534,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.810303",
+                    "ticker_sentiment_score": "0.226763",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why UnitedHealth Group  ( UNH )  is a Strong Value Stock",
+            "url": "https://www.zacks.com/stock/news/2155434/heres-why-unitedhealth-group-unh-is-a-strong-value-stock",
+            "time_published": "20230926T134006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default325.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.486747,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.447528",
+                    "ticker_sentiment_score": "0.302445",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights Microsoft, UnitedHealth Group, HSBC Holdings, IBM and Honeywell International",
+            "url": "https://www.zacks.com/stock/news/2155509/the-zacks-analyst-blog-highlights-microsoft-unitedhealth-group-hsbc-holdings-ibm-and-honeywell-international",
+            "time_published": "20230926T131800",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Microsoft, UnitedHealth Group, HSBC Holdings, IBM and Honeywell International are part of the Zacks top Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.360597,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.2256",
+                    "ticker_sentiment_score": "0.055953",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HSBC",
+                    "relevance_score": "0.367141",
+                    "ticker_sentiment_score": "0.325088",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HON",
+                    "relevance_score": "0.151539",
+                    "ticker_sentiment_score": "0.041941",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.297661",
+                    "ticker_sentiment_score": "0.270839",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group  ( UNH )  Outpaces Stock Market Gains: What You Should Know",
+            "url": "https://www.zacks.com/stock/news/2155097/unitedhealth-group-unh-outpaces-stock-market-gains-what-you-should-know",
+            "time_published": "20230925T214518",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UnitedHealth Group (UNH) closed the most recent trading day at $510.28, moving +0.83% from the previous trading session.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default175.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976913"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.175087,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.605266",
+                    "ticker_sentiment_score": "0.312501",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "This Is What Whales Are Betting On UnitedHealth Group - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34875968/this-is-what-whales-are-betting-on-unitedhealth-group",
+            "time_published": "20230925T181737",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Someone with a lot of money to spend has taken a bullish stance on UnitedHealth Group UNH. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.138652,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.805739",
+                    "ticker_sentiment_score": "0.37928",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Top Analyst Reports for Microsoft, UnitedHealth & HSBC",
+            "url": "https://www.zacks.com/research-daily/2154917/top-analyst-reports-for-microsoft-unitedhealth-hsbc",
+            "time_published": "20230925T154300",
+            "authors": [
+                "Sheraz Mian"
+            ],
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corporation (MSFT), UnitedHealth Group Incorporated (UNH) and HSBC Holdings plc (HSBC).",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default70.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.444351,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.108466",
+                    "ticker_sentiment_score": "0.37868",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Ready to Buy the Dip? UnitedHealth Group Stock Is a Smart Buy",
+            "url": "https://www.fool.com/investing/2023/09/24/ready-to-buy-the-dip-unitedhealth-group-stock-is-a/",
+            "time_published": "20230924T135300",
+            "authors": [
+                "Jim Halley"
+            ],
+            "summary": "The healthcare insurer and services giant has a number of advantages.",
+            "banner_image": "https://media.ycharts.com/charts/892106d9eb1676a6383c090ec56d79a2.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999606"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.181361,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "0.250342",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HUM",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "-0.08082",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ELV",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "-0.08082",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "0.169832",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "A fund manager at a $250 billion firm that aims to capture megatrends shares the top 10 stocks pulled from its 12 strategies",
+            "url": "https://www.businessinsider.com/top-stocks-set-to-gain-from-global-megatrends-fund-manager-2023-9",
+            "time_published": "20230923T090100",
+            "authors": [
+                "Laila Maidan"
+            ],
+            "summary": "Top 10 Stocks Set to Gain From Global Megatrends: Fund Manager - Business Insider ...",
+            "banner_image": "https://i.insider.com/650e00bbe453d50019f7ecf1?width=1200&format=jpeg",
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.166667"
+                }
+            ],
+            "overall_sentiment_score": 0.321271,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.08414",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.129746",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PRBZF",
+                    "relevance_score": "0.039224",
+                    "ticker_sentiment_score": "0.221503",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.129746",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "-0.110586",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RSG",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "-0.004156",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.194259",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.30089",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.117295",
+                    "ticker_sentiment_score": "0.147665",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROP",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.129746",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.230088",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.20142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SBGSF",
+                    "relevance_score": "0.039224",
+                    "ticker_sentiment_score": "0.361151",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.078354",
+                    "ticker_sentiment_score": "0.129746",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Diving Back Into A Correction: Watchlists, Nike Earnings, Coal Stocks, Housing Data",
+            "url": "https://www.investors.com/research/investing-action-plan/diving-back-into-a-correction-watchlists-nike-earnings-coal-stocks-housing-data/",
+            "time_published": "20230922T212100",
+            "authors": [
+                "ALAN R. ELLIOTT",
+                "Investor's Business Daily"
+            ],
+            "summary": "Diving Back Into A Correction: Watchlists, Nike Earnings, Coal ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/02/FIFTY1-021616-company.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                }
+            ],
+            "overall_sentiment_score": 0.099065,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "0.118412",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BG",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.180572",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ARCH",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "0.169497",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VRTX",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "0.118412",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACGL",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.180572",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.541149",
+                    "ticker_sentiment_score": "0.087704",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMGN",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "-0.169165",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GE",
+                    "relevance_score": "0.146916",
+                    "ticker_sentiment_score": "0.118412",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "-0.169165",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Dow Falls But Apple Gains On iPhone Launch; UAW Lets Ford Off The Hook",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-flounders-but-tech-leads-uaw-lets-ford-off-the-hook/",
+            "time_published": "20230922T202500",
+            "authors": [
+                "VIDYA RAMAKRISHNAN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Falls But Apple Gains On iPhone Launch. UAW Lets Ford Off ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999997"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967321"
+                }
+            ],
+            "overall_sentiment_score": 0.060289,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.129169",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.15748",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LPG",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.10947",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.082361",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.082361",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.137148",
+                    "ticker_sentiment_score": "0.09245",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.182162",
+                    "ticker_sentiment_score": "-0.031549",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.211098",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PRGS",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.225844",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ACN",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.079847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.15748",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.038382",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "-0.141291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JBL",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.026368",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PAYX",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.012848",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CAT",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.15748",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ZS",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "0.129169",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPLK",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.082361",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "-0.033908",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "iPhone 15 Global Debut Marked By Long Lines And Consumer Hype As Apple Looks To Turn Around Sales Slump",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2023/09/22/iphone-15-global-debut-marked-by-long-lines-and-consumer-hype-as-apple-looks-to-turn-around-sales-slump/",
+            "time_published": "20230922T202409",
+            "authors": [
+                "Antonio Pequeño IV"
+            ],
+            "summary": "This year's installment of the iPhone comes with serious upgrades to its camera and no longer uses Apple's proprietary lightning cable, opting for USB-C instead.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/650df7781e088973142036b2/0x0.jpg?format=jpg&crop=3446,2295,x0,y0,safe&width=1200",
+            "source": "Forbes",
+            "category_within_source": "Business",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.016739,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.098659",
+                    "ticker_sentiment_score": "-0.003278",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.098659",
+                    "ticker_sentiment_score": "-0.003278",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.098659",
+                    "ticker_sentiment_score": "-0.003278",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Corporations say they have a new No. 1 risk, and they're spending big to defeat it",
+            "url": "https://www.cnbc.com/2023/09/22/corporations-have-a-new-no-1-risk-theyre-spending-big-to-defeat-it.html",
+            "time_published": "20230922T163435",
+            "authors": [
+                "Eric Rosenbaum"
+            ],
+            "summary": "Covid and inflation dominated corporate fears in recent years, but now companies say government regulation has returned as the biggest threat to business.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107301674-6ED2-REQ-091523-WEX-Picker.jpg?v=1694800513&w=750&h=422&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.097936,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ATVI",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.07777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPLK",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.07777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HZNP",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.07777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.07777",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Executive Leadership Council to Award More Than $3M in Scholarships During its Annual Recognition and Fundraising Gala",
+            "url": "https://www.prnewswire.com/news-releases/the-executive-leadership-council-to-award-more-than-3m-in-scholarships-during-its-annual-recognition-and-fundraising-gala-301936374.html",
+            "time_published": "20230922T160500",
+            "authors": [
+                "The Executive Leadership Council"
+            ],
+            "summary": "The Executive Leadership Council to Award More Than $3M in Scholarships During its Annual Recognition and ... PR ...",
+            "banner_image": "http://photos.prnewswire.com/prnthumb/20160706/386761LOGO",
+            "source": "PR Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.prnewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.393585,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.264927",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.166788",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CHH",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.107736",
+                    "ticker_sentiment_score": "0.1888",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HPQ",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HPE",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.043822",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why You Should Retain Universal Health  ( UHS )  Stock Now",
+            "url": "https://www.zacks.com/stock/news/2154303/heres-why-you-should-retain-universal-health-uhs-stock-now",
+            "time_published": "20230922T153400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Universal Health (UHS) benefits from improving patient volumes, sound segmental performance and a solid capital position.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/37/2337.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928769"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.299814,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EHC",
+                    "relevance_score": "0.151858",
+                    "ticker_sentiment_score": "0.06628",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UHID",
+                    "relevance_score": "0.050894",
+                    "ticker_sentiment_score": "0.340774",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.050894",
+                    "ticker_sentiment_score": "0.062963",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATAI",
+                    "relevance_score": "0.151858",
+                    "ticker_sentiment_score": "0.01692",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HCSG",
+                    "relevance_score": "0.050894",
+                    "ticker_sentiment_score": "0.089012",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.101582",
+                    "ticker_sentiment_score": "0.068718",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "New to Investing? This 1 Medical Stock Could Be the Perfect Starting Point",
+            "url": "https://www.zacks.com/stock/news/2154155/new-to-investing-this-1-medical-stock-could-be-the-perfect-starting-point",
+            "time_published": "20230922T133004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Focus List.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default62.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99489"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                }
+            ],
+            "overall_sentiment_score": 0.328192,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.252332",
+                    "ticker_sentiment_score": "0.277834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Buy These 3 Defensive Funds to Beat Market Volatility",
+            "url": "https://www.zacks.com/stock/news/2154030/buy-these-3-defensive-funds-to-beat-market-volatility",
+            "time_published": "20230922T095400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Invest in recession-proof industries like FSUTX, VGHCX and FDIGX to preserve your capital and earn positive returns during volatile market conditions.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6e/50121.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.109219,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDLZ",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.051977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.051977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZN",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.048038",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.048038",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.049023",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.051977",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Pick UnitedHealth Stock Over Walmart For Better Returns?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2023/09/21/should-you-pick-unitedhealth-stock-over-walmart-for-better-returns/",
+            "time_published": "20230921T130048",
+            "authors": [
+                "Trefis Team"
+            ],
+            "summary": "UnitedHealth's revenue growth was primarily driven by the increased demand for its OptumHealth business, which provides health care through local medical groups.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/64017b470ee689a10a8619bf/0x0.jpg?format=jpg&width=1200",
+            "source": "Forbes",
+            "category_within_source": "Markets",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.238978,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.664604",
+                    "ticker_sentiment_score": "0.341296",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.036587",
+                    "ticker_sentiment_score": "0.078839",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.664604",
+                    "ticker_sentiment_score": "0.341296",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should SPDR Dow Jones Industrial Average ETF  ( DIA )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2153467/should-spdr-dow-jones-industrial-average-etf-dia-be-on-your-investing-radar",
+            "time_published": "20230921T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for DIA ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default167.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.262169,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "STT",
+                    "relevance_score": "0.06179",
+                    "ticker_sentiment_score": "0.111024",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.068541",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.068541",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.068541",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Growing Health Insurance Adoption Will Drive Remarkable Growth In The Hospitalization Insurance Market At A CAGR Of More Than 10% As Per The Business Research Company's Hospitalization Insurance Global Market Report 2023",
+            "url": "https://www.benzinga.com/pressreleases/23/09/g34767024/growing-health-insurance-adoption-will-drive-remarkable-growth-in-the-hospitalization-insurance-ma",
+            "time_published": "20230920T153000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LONDON, Sept. 20, 2023 ( GLOBE NEWSWIRE ) -- As per The Business Research Company's Hospitalization Insurance Global Market Report 2023, the global hospitalization insurance market has exhibited remarkable growth, surging from $101.91 billion in 2022 to an impressive $117.03 billion in 2023, ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.313754,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HUM",
+                    "relevance_score": "0.060694",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.060694",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Investors Heavily Search UnitedHealth Group Incorporated  ( UNH ) : Here is What You Need to Know",
+            "url": "https://www.zacks.com/stock/news/2152989/investors-heavily-search-unitedhealth-group-incorporated-unh-here-is-what-you-need-to-know",
+            "time_published": "20230920T130010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Recently, Zacks.com users have been paying close attention to UnitedHealth (UNH). This makes it worthwhile to examine what the stock has in store.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default18.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                }
+            ],
+            "overall_sentiment_score": 0.20625,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.097667",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Industry Outlook Highlights P3 Health Partners, Talkspace and Augmedix",
+            "url": "https://www.zacks.com/stock/news/2152934/zacks-industry-outlook-highlights-p3-health-partners-talkspace-and-augmedix",
+            "time_published": "20230920T112200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "P3 Health Partners, Talkspace and Augmedix are pat of the Zacks Industry Outlook article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e7/2307.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.231139,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HUM",
+                    "relevance_score": "0.029691",
+                    "ticker_sentiment_score": "0.091163",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OMCL",
+                    "relevance_score": "0.029691",
+                    "ticker_sentiment_score": "0.13048",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DGX",
+                    "relevance_score": "0.029691",
+                    "ticker_sentiment_score": "0.091163",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AUGX",
+                    "relevance_score": "0.176717",
+                    "ticker_sentiment_score": "0.083987",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TALK",
+                    "relevance_score": "0.205557",
+                    "ticker_sentiment_score": "0.182449",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PIII",
+                    "relevance_score": "0.118354",
+                    "ticker_sentiment_score": "0.020557",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.029691",
+                    "ticker_sentiment_score": "0.091163",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Mutual Funds for Regular Dividend Income in September",
+            "url": "https://www.zacks.com/stock/news/2152918/3-mutual-funds-for-regular-dividend-income-in-september",
+            "time_published": "20230920T105600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Invest in high dividend-paying mutual funds like EQTIX, MLPZX and BRGIX to generate income amid high volatility.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/be/2065.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.091209,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.047075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPLX",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.048662",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.184035",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.047075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ET",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.048662",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.125292",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Best Janus Mutual Funds to Invest In",
+            "url": "https://www.zacks.com/stock/news/2152914/3-best-janus-mutual-funds-to-invest-in",
+            "time_published": "20230920T105200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Invest in Janus mutual funds such as JANEX, JNGLX and JDPAX, which have demonstrated a track record of delivering impressive returns.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/09/344.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.288345,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CNSWF",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.067072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LNT",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "-0.046219",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZN",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.047042",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BSX",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.067072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HIG",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "-0.046219",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JHG",
+                    "relevance_score": "0.194763",
+                    "ticker_sentiment_score": "0.195302",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.047042",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.067072",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the iShares U.S. Healthcare ETF  ( IYH ) ?",
+            "url": "https://www.zacks.com/stock/news/2152866/should-you-invest-in-the-ishares-us-healthcare-etf-iyh",
+            "time_published": "20230920T102007",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default67.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.228879,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.066414",
+                    "ticker_sentiment_score": "0.088153",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.132368",
+                    "ticker_sentiment_score": "0.069712",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.132368",
+                    "ticker_sentiment_score": "0.069712",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.132368",
+                    "ticker_sentiment_score": "0.069712",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "6 Healthcare Stocks Analysts Still Like",
+            "url": "https://www.barrons.com/articles/healthcare-stocks-analysts-like-8b0f4dd2",
+            "time_published": "20230920T070000",
+            "authors": [
+                "Josh Nathan-Kazis"
+            ],
+            "summary": "This has been an epically bad year for the healthcare sector, but there are still a few stocks out there that Wall Street analysts like. Some of them are even more beaten down than the rest of the industry. The S&P 500 Health Care sector index is down 3% this year, vastly behind the S&P 500, ...",
+            "banner_image": "https://images.barrons.com/im-81046107?width=639&height=426",
+            "source": "Barrons",
+            "category_within_source": "n/a",
+            "source_domain": "www.barrons.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.054264,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TECH",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.079998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BSX",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VRTX",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZTS",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "0.130657",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIO",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DXCM",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.059347",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Medical Info Systems Stocks to Buy as Industry Trends Improve",
+            "url": "https://www.zacks.com/commentary/2152418/3-medical-info-systems-stocks-to-buy-as-industry-trends-improve",
+            "time_published": "20230919T140400",
+            "authors": [
+                "Urmimala Biswas"
+            ],
+            "summary": "Zacks Medical Info Systems industry stocks like P3 Health Partners (PIII), Talkspace (TALK) and Augmedix (AUGX) are expected to gain from the new normal trends.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e7/2307.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.235818,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HUM",
+                    "relevance_score": "0.030641",
+                    "ticker_sentiment_score": "0.108867",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OMCL",
+                    "relevance_score": "0.030641",
+                    "ticker_sentiment_score": "0.074203",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DGX",
+                    "relevance_score": "0.030641",
+                    "ticker_sentiment_score": "0.108867",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AUGX",
+                    "relevance_score": "0.122114",
+                    "ticker_sentiment_score": "0.103486",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TALK",
+                    "relevance_score": "0.152306",
+                    "ticker_sentiment_score": "0.141668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PIII",
+                    "relevance_score": "0.061237",
+                    "ticker_sentiment_score": "0.077317",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.030641",
+                    "ticker_sentiment_score": "0.108867",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Beaten-Down Dividend Growth Stocks That Look Like Bargains Now",
+            "url": "https://www.fool.com/investing/2023/09/19/2-beaten-down-dividend-growth-stocks-that-look-lik/",
+            "time_published": "20230919T111700",
+            "authors": [
+                "Cory Renauer"
+            ],
+            "summary": "Buying these dividend growers on the dips could lead to huge passive income streams by the time you're ready to retire.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F747903%2Finvestor-dark-room-devices-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.235736,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDT",
+                    "relevance_score": "0.214462",
+                    "ticker_sentiment_score": "0.163949",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.503668",
+                    "ticker_sentiment_score": "0.298685",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.108222",
+                    "ticker_sentiment_score": "0.204949",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should Vanguard Mega Cap Value ETF  ( MGV )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2152265/should-vanguard-mega-cap-value-etf-mgv-be-on-your-investing-radar",
+            "time_published": "20230919T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default59.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.304203,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.068619",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.061949",
+                    "ticker_sentiment_score": "0.060004",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.068619",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Stocks That Could Be Kicked Out of the Dow -- and the Companies That May Replace Them",
+            "url": "https://www.fool.com/investing/2023/09/19/3-stocks-that-could-be-kicked-out-of-the-dow/",
+            "time_published": "20230919T090600",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Three time-tested yet poor-performing Dow components are at risk of being removed from the index.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F747918%2Fnyse-wall-street-trading-new-york-financial-stock-market-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.158609,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.064797",
+                    "ticker_sentiment_score": "-0.050033",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "0.006204",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.161062",
+                    "ticker_sentiment_score": "0.127854",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "0.204767",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.112182",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.185748",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HCSG",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.019421",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "-0.046667",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.118551",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.224013",
+                    "ticker_sentiment_score": "0.257241",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.112527",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "0.208321",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.039135",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRV",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.02127",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CME",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.039135",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDT",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.134101",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.039135",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group  ( UNH )  Stock Sinks As Market Gains: What You Should Know",
+            "url": "https://www.zacks.com/stock/news/2152133/unitedhealth-group-unh-stock-sinks-as-market-gains-what-you-should-know",
+            "time_published": "20230918T214518",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UnitedHealth Group (UNH) closed the most recent trading day at $486.06, moving -0.13% from the previous trading session.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default86.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.185087,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "0.345901",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group Unusual Options Activity - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34698595/unitedhealth-group-unusual-options-activity",
+            "time_published": "20230918T170139",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Someone with a lot of money to spend has taken a bearish stance on UnitedHealth Group UNH. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.139398,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.786589",
+                    "ticker_sentiment_score": "0.275418",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "These 4 Dividend ETFs Are a Retiree's Best Friend",
+            "url": "https://www.fool.com/investing/2023/09/18/these-4-dividend-etfs-are-a-retirees-best-friend/",
+            "time_published": "20230918T103500",
+            "authors": [
+                "Selena Maranjian"
+            ],
+            "summary": "Dividends can be powerful wealth-boosters in your portfolio, delivering regular (and often growing) income.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999346"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.21036,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JPM",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.048915",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMT",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLD",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABBV",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TD",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.048915",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.093906",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EQIX",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSRGF",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.048915",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PSA",
+                    "relevance_score": "0.056275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the Health Care Select Sector SPDR ETF  ( XLV ) ?",
+            "url": "https://www.zacks.com/stock/news/2151652/should-you-invest-in-the-health-care-select-sector-spdr-etf-xlv",
+            "time_published": "20230918T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default109.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.258161,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.12645",
+                    "ticker_sentiment_score": "0.063548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.063425",
+                    "ticker_sentiment_score": "0.127352",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STT",
+                    "relevance_score": "0.063425",
+                    "ticker_sentiment_score": "0.089045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.12645",
+                    "ticker_sentiment_score": "0.063548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.12645",
+                    "ticker_sentiment_score": "0.063548",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "A top-12% portfolio manager over the last 5 years shares how he finds unloved stocks trading at massive discounts - and 6 of the top opportunities in markets right now",
+            "url": "https://www.businessinsider.com/how-to-invest-value-stocks-to-buy-top-fund-manager-2023-9",
+            "time_published": "20230916T100000",
+            "authors": [
+                "James Faris"
+            ],
+            "summary": "6 Undervalued Investments to Make Right Now: Top-12% Fund Manager - Business Insider ...",
+            "banner_image": "https://i.insider.com/65035abb2a72d60019d543d4?width=1200&format=jpeg",
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999186"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.221784,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.033894",
+                    "ticker_sentiment_score": "0.200285",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.067727",
+                    "ticker_sentiment_score": "0.131897",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AIG",
+                    "relevance_score": "0.101439",
+                    "ticker_sentiment_score": "0.221997",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.067727",
+                    "ticker_sentiment_score": "0.131897",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Falls; Disney TV Gets Huge Bid As UAW Strikes At Big 3 Automakers",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-disney-tv-gets-huge-bid-as-uaw-strikes-at-big-3-automakers/",
+            "time_published": "20230915T180800",
+            "authors": [
+                "VIDYA RAMAKRISHNAN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Jones Falls. Disney TV Gets Huge Bid As UAW Strikes At Big 3 ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2017/08/WallStreetFinance-adobe.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999995"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.166667"
+                }
+            ],
+            "overall_sentiment_score": -0.06316,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPRT",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.210403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.210403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "LEN",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.193264",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.029475",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.210403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.210403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.064797",
+                    "ticker_sentiment_score": "-0.016109",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADBE",
+                    "relevance_score": "0.129168",
+                    "ticker_sentiment_score": "-0.053636",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.226643",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group  ( UNH )  Wins Medicaid Deal to Help Serve Texas",
+            "url": "https://www.zacks.com/stock/news/2149114/unitedhealth-group-unh-wins-medicaid-deal-to-help-serve-texas",
+            "time_published": "20230914T162000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UnitedHealth Group (UNH) unit has been awarded a contract by the Texas Health and Human Services Commission to better cater to the statewide Medicaid members.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/16/2258.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.349859,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MEDP",
+                    "relevance_score": "0.217346",
+                    "ticker_sentiment_score": "0.133504",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ANIP",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.162594",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.217346",
+                    "ticker_sentiment_score": "0.133504",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.370733",
+                    "ticker_sentiment_score": "0.44944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ImmunoPrecise Antibodies Ltd.  ( IPA )  Reports Q1 Loss, Tops Revenue Estimates",
+            "url": "https://www.zacks.com/stock/news/2148957/immunoprecise-antibodies-ltd-ipa-reports-q1-loss-tops-revenue-estimates",
+            "time_published": "20230914T141502",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ImmunoPrecise Antibodies Ltd. (IPA) delivered earnings and revenue surprises of 35.29% and 7.09%, respectively, for the quarter ended July 2023. Do the numbers hold clues to what lies ahead for the stock?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default80.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999892"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.116757,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IPA",
+                    "relevance_score": "0.388879",
+                    "ticker_sentiment_score": "0.072166",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Looking Into UnitedHealth Group's Recent Short Interest - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/short-sellers/23/09/34582712/looking-into-unitedhealth-groups-recent-short-interest",
+            "time_published": "20230914T140020",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "UnitedHealth Group's UNH short percent of float has fallen 16.42% since its last report. The company recently reported that it has 5.20 million shares sold short, which is 0.56% of all regular shares that are available for trading.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.239316,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.426824",
+                    "ticker_sentiment_score": "0.247129",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The Joint Corp.  ( JYNT )  Reports Q2 Loss, Misses Revenue Estimates",
+            "url": "https://www.zacks.com/stock/news/2148566/the-joint-corp-jynt-reports-q2-loss-misses-revenue-estimates",
+            "time_published": "20230913T211502",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The Joint Corp. (JYNT) delivered earnings and revenue surprises of -133.33% and 1.80%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default132.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999981"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.137098,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.208764",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JYNT",
+                    "relevance_score": "0.40348",
+                    "ticker_sentiment_score": "0.1036",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group Unusual Options Activity - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34551939/unitedhealth-group-unusual-options-activity",
+            "time_published": "20230913T204548",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "A whale with a lot of money to spend has taken a noticeably bullish stance on UnitedHealth Group. Looking at options history for UnitedHealth Group UNH we detected 16 strange trades. If we consider the specifics of each trade, it is accurate to state that 50% of the investors opened trades with ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.190007,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.832201",
+                    "ticker_sentiment_score": "0.453292",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You Invested $100 In This Stock 20 Years Ago, You Would Have $1,900 Today - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/news/earnings/23/09/34539045/if-you-invested-100-in-this-stock-20-years-ago-you-would-have-1-900-today",
+            "time_published": "20230913T143034",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "UnitedHealth Group UNH has outperformed the market over the past 20 years by 8.38% on an annualized basis producing an average annual return of 16.0%. Currently, UnitedHealth Group has a market capitalization of $447.65 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.980595",
+                    "ticker_sentiment_score": "0.386944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group  ( UNH )  Stock Sinks As Market Gains: What You Should Know",
+            "url": "https://www.zacks.com/stock/news/2147433/unitedhealth-group-unh-stock-sinks-as-market-gains-what-you-should-know",
+            "time_published": "20230911T214518",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UnitedHealth Group (UNH) closed the most recent trading day at $479.38, moving -0.29% from the previous trading session.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default46.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.203004,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.613743",
+                    "ticker_sentiment_score": "0.341532",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Looking At UnitedHealth Group's Recent Unusual Options Activity - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34453418/looking-at-unitedhealth-groups-recent-unusual-options-activity",
+            "time_published": "20230911T183058",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Someone with a lot of money to spend has taken a bearish stance on UnitedHealth Group UNH. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.160034,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.801457",
+                    "ticker_sentiment_score": "0.277327",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the Vanguard Health Care ETF  ( VHT ) ?",
+            "url": "https://www.zacks.com/stock/news/2147010/should-you-invest-in-the-vanguard-health-care-etf-vht",
+            "time_published": "20230911T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default221.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.2532,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.064794",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.068502",
+                    "ticker_sentiment_score": "0.125901",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.064794",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.064794",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Nuveen ESG Large-Cap Value ETF  ( NULV )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2147016/is-nuveen-esg-large-cap-value-etf-nulv-a-strong-etf-right-now",
+            "time_published": "20230911T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default208.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99999"
+                }
+            ],
+            "overall_sentiment_score": 0.286591,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JPM",
+                    "relevance_score": "0.108222",
+                    "ticker_sentiment_score": "0.054277",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.108222",
+                    "ticker_sentiment_score": "0.054277",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Molina Healthcare Earns RS Rating Upgrade",
+            "url": "https://www.investors.com/ibd-data-stories/molina-healthcare-earns-rs-rating-upgrade/",
+            "time_published": "20230911T070000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "The Relative Strength ( RS ) Rating for Molina Healthcare ( MOH ) entered a higher percentile Monday, as it got a lift from 68 to 75. When looking for the best stocks to buy and watch, one factor to watch closely is relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.396978,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.316846",
+                    "ticker_sentiment_score": "0.24983",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.16171",
+                    "ticker_sentiment_score": "0.182376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MOH",
+                    "relevance_score": "0.779232",
+                    "ticker_sentiment_score": "0.52219",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Walmart Contemplates Multi-billion Dollar Majority Stake In ChenMed - CVS Health  ( NYSE:CVS ) , UnitedHealth Group  ( NYSE:UNH ) , Walmart  ( NYSE:WMT ) ",
+            "url": "https://www.benzinga.com/markets/equities/23/09/34392774/walmart-contemplates-multi-billion-dollar-majority-stake-in-chenmed",
+            "time_published": "20230909T154643",
+            "authors": [
+                "Nabaparna Bhattacharya"
+            ],
+            "summary": "Walmart Inc. WMT is reportedly contemplating the acquisition of a controlling interest in ChenMed, a provider of primary care clinics tailored for senior citizens, according to Bloomberg. The potential deal could lead to a whopping valuation of ChenMed at several billion dollars.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/09/09/walmart.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.255026,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.205807",
+                    "ticker_sentiment_score": "0.093149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.304428",
+                    "ticker_sentiment_score": "0.269318",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.566143",
+                    "ticker_sentiment_score": "0.333529",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Top Healthcare Stocks to Buy for September",
+            "url": "https://www.fool.com/investing/2023/09/09/3-top-healthcare-stocks-to-buy-for-september/",
+            "time_published": "20230909T131500",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "These blue-chip healthcare stocks are trading at attractive valuations today.",
+            "banner_image": "https://media.ycharts.com/charts/e436a8f10d6d7189188f44e1420a3de2.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.972476"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.322143,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SGEN",
+                    "relevance_score": "0.13347",
+                    "ticker_sentiment_score": "0.012445",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.147592",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.288213",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.13347",
+                    "ticker_sentiment_score": "0.056984",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "These four Dow stocks take top prizes for dividend growth",
+            "url": "https://www.marketwatch.com/story/these-four-dow-stocks-take-top-prizes-for-dividend-growth-8d924f85",
+            "time_published": "20230909T121300",
+            "authors": [
+                "Philip van Doorn"
+            ],
+            "summary": "There is a correlation between a high rate of dividend growth and excellent returns among stocks in the Dow Jones Industrial Average.",
+            "banner_image": "https://images.mktw.net/im-847309/social",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998356"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.216818,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DD",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "-0.082312",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CTVA",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "-0.082312",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HON",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "0.202633",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DOW",
+                    "relevance_score": "0.165031",
+                    "ticker_sentiment_score": "-0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "0.202633",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "-0.082312",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 High-Quality Dividend Stocks To Watch Right Now",
+            "url": "https://stockmarket.com/featured/2-high-quality-dividend-stocks-to-watch-right-now-2023-09-08",
+            "time_published": "20230908T220726",
+            "authors": [
+                "Josh Dylan"
+            ],
+            "summary": "Dividend stocks represent companies that share a portion of their profits with their shareholders in the form of payouts. This is commonly known as dividends. When a company is doing well and generating surplus profits, it might decide to distribute some of these earnings to its shareholders.",
+            "banner_image": "https://u3j7m9h7.rocketcdn.me/wp-content/uploads/2021/06/MCD-Stock-1.jpg",
+            "source": "StockMarket.com",
+            "category_within_source": "n/a",
+            "source_domain": "stockmarket.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999956"
+                }
+            ],
+            "overall_sentiment_score": 0.345291,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.220809",
+                    "ticker_sentiment_score": "0.183396",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.42503",
+                    "ticker_sentiment_score": "0.410068",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why UnitedHealth Group  ( UNH )  is a Top Value Stock for the Long-Term",
+            "url": "https://www.zacks.com/stock/news/2146561/why-unitedhealth-group-unh-is-a-top-value-stock-for-the-long-term",
+            "time_published": "20230908T134007",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default210.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.411933,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.390396",
+                    "ticker_sentiment_score": "0.338993",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here is What to Know Beyond Why UnitedHealth Group Incorporated  ( UNH )  is a Trending Stock",
+            "url": "https://www.zacks.com/stock/news/2146486/here-is-what-to-know-beyond-why-unitedhealth-group-incorporated-unh-is-a-trending-stock",
+            "time_published": "20230908T130010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Zacks.com users have recently been watching UnitedHealth (UNH) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default102.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.199854,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.487546",
+                    "ticker_sentiment_score": "0.095633",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How Stocks Pass Quality Test Of This Best Mutual Fund",
+            "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-fund-pass-the-quality-test-administered-by-quality-gmo-fund/",
+            "time_published": "20230908T110000",
+            "authors": [
+                "Investor's Business Daily",
+                "ADAM SHELL"
+            ],
+            "summary": "It doesn't take a Ph.D. in finance to figure out what the investing game plan is for GMO Quality IV Fund ( GQEFX ) , a best mutual fund. In a nutshell? Buy quality stocks. When administering the quality test, Tom Hancock, 60, portfolio manager of GMO Quality, looks for companies that can pretty ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2023/09/MFprof091123-959x1024.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.290466,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.059562",
+                    "ticker_sentiment_score": "0.070045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.059562",
+                    "ticker_sentiment_score": "0.082998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.08924",
+                    "ticker_sentiment_score": "0.085824",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.029802",
+                    "ticker_sentiment_score": "0.066133",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.059562",
+                    "ticker_sentiment_score": "0.082998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.118793",
+                    "ticker_sentiment_score": "0.290329",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.059562",
+                    "ticker_sentiment_score": "0.070045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.029802",
+                    "ticker_sentiment_score": "-0.044174",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACN",
+                    "relevance_score": "0.08924",
+                    "ticker_sentiment_score": "-0.003161",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.206308",
+                    "ticker_sentiment_score": "0.095155",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.08924",
+                    "ticker_sentiment_score": "0.112787",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Could Revive In September - But Don't Count On It",
+            "url": "https://www.investors.com/etfs-and-funds/personal-finance/best-funds-stocks-could-revive-september/",
+            "time_published": "20230908T110000",
+            "authors": [
+                "ADAM SHELL",
+                "Investor's Business Daily"
+            ],
+            "summary": "Despite a late-month rally, both the S&P 500 and Nasdaq saw their five-month winning streaks snapped in August. The market suffered a broad but mild pullback, hurting even the best funds. The only stock fund sector to post a gain was natural resources, while the previously white-hot science and ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2021/04/Stock-marketBoard-29-adobe.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.102673,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "-0.221314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.086348",
+                    "ticker_sentiment_score": "-0.231339",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.199741",
+                    "ticker_sentiment_score": "0.067152",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "-0.221314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "-0.221314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AEP",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0861",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.028833",
+                    "ticker_sentiment_score": "0.035485",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0861",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
+            "url": "https://www.zacks.com/stock/news/2145406/why-this-1-growth-stock-could-be-a-great-addition-to-your-portfolio",
+            "time_published": "20230906T134507",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default78.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.490646,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.448316",
+                    "ticker_sentiment_score": "0.444505",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group  ( UNH )  Gains As Market Dips: What You Should Know",
+            "url": "https://www.zacks.com/stock/news/2145076/unitedhealth-group-unh-gains-as-market-dips-what-you-should-know",
+            "time_published": "20230905T214517",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UnitedHealth Group (UNH) closed at $480.81 in the latest trading session, marking a +0.96% move from the prior day.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default240.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.143341,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.612033",
+                    "ticker_sentiment_score": "0.214058",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Zimmer Biomet Announces Key Updates to Company's Executive Leadership Team",
+            "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-announces-key-updates-to-companys-executive-leadership-team-301917918.html",
+            "time_published": "20230905T203000",
+            "authors": [
+                "Zimmer Biomet Holdings",
+                "Inc."
+            ],
+            "summary": "Mark Bezjak Promoted to President of the Americas WARSAW, Ind., Sept. 5, 2023 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. ( NYSE and SIX: ZBH ) , a global medical technology leader, today announced key updates to the Company's Executive Leadership Team. Wilfred van Zuilen has been promoted to ...",
+            "banner_image": "https://mma.prnewswire.com/media/1603977/Zimmer_Biomet_Holdings_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.prnewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.171064,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ZBH",
+                    "relevance_score": "0.425355",
+                    "ticker_sentiment_score": "0.279287",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EW",
+                    "relevance_score": "0.040691",
+                    "ticker_sentiment_score": "0.026473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDT",
+                    "relevance_score": "0.040691",
+                    "ticker_sentiment_score": "0.026473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.040691",
+                    "ticker_sentiment_score": "0.08129",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TFX",
+                    "relevance_score": "0.040691",
+                    "ticker_sentiment_score": "0.046372",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UnitedHealth Group Unusual Options Activity - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/markets/options/23/09/34248033/unitedhealth-group-unusual-options-activity",
+            "time_published": "20230905T180053",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Someone with a lot of money to spend has taken a bullish stance on UnitedHealth Group UNH. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.14339,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.818658",
+                    "ticker_sentiment_score": "0.38135",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why You Should Retain UnitedHealth Group  ( UNH )  Stock Now",
+            "url": "https://www.zacks.com/stock/news/2144991/heres-why-you-should-retain-unitedhealth-group-unh-stock-now",
+            "time_published": "20230905T162700",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Growth in membership, expanding government business, strategic acquisitions and improving operating margin poise UnitedHealth Group (UNH) well for growth.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/16/2258.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.325414,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SEM",
+                    "relevance_score": "0.088472",
+                    "ticker_sentiment_score": "0.052573",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMED",
+                    "relevance_score": "0.044304",
+                    "ticker_sentiment_score": "0.24677",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ATAI",
+                    "relevance_score": "0.132368",
+                    "ticker_sentiment_score": "0.015643",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.595343",
+                    "ticker_sentiment_score": "0.484291",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HCA",
+                    "relevance_score": "0.175859",
+                    "ticker_sentiment_score": "0.062554",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Analysis: US healthcare stocks roiled by investor tug of war over economy",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-healthcare-stocks-roiled-by-investor-tug-war-over-economy-2023-09-05/",
+            "time_published": "20230905T104800",
+            "authors": [
+                "David Randall"
+            ],
+            "summary": "Traders work on the floor of the New York Stock Exchange ( NYSE ) in New York City, U.S., July 26, 2023. REUTERS/Brendan McDermid Acquire Licensing Rights",
+            "banner_image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HXKWAD2DORL47C5RCU4SADPZ3E.jpg",
+            "source": "Reuters",
+            "category_within_source": "Business",
+            "source_domain": "www.reuters.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.043422,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JHG",
+                    "relevance_score": "0.04794",
+                    "ticker_sentiment_score": "0.040959",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.095707",
+                    "ticker_sentiment_score": "0.014795",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.04794",
+                    "ticker_sentiment_score": "0.057232",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.04794",
+                    "ticker_sentiment_score": "-0.032714",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.04794",
+                    "ticker_sentiment_score": "0.089888",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Inside the struggles at Calibrate, a new kind of weight-loss startup that's facing a mountain of patient complaints and refunds",
+            "url": "https://www.businessinsider.com/weight-loss-startup-calibrate-patient-complaints-refunds-2023-9",
+            "time_published": "20230905T100000",
+            "authors": [
+                "Rebecca Torrence",
+                "Shelby Livingston"
+            ],
+            "summary": "Weight-Loss Startup Calibrate Faces Mountain of Patient Complaints and Refunds - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.007252,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.013965",
+                    "ticker_sentiment_score": "0.037077",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FDX",
+                    "relevance_score": "0.097513",
+                    "ticker_sentiment_score": "0.063526",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "These 3 Companies Generate Serious Cash",
+            "url": "https://www.zacks.com/stock/news/2143937/these-3-companies-generate-serious-cash",
+            "time_published": "20230901T203700",
+            "authors": [
+                "Derek Lewis"
+            ],
+            "summary": "Companies boasting strong cash-generating abilities can be great investments, as they have plenty of cash to fuel growth, pay dividends, and easily wipe out debt.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/61/32891.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.471521,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.448842",
+                    "ticker_sentiment_score": "0.45668",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.448842",
+                    "ticker_sentiment_score": "0.560757",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}

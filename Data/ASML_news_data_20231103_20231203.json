@@ -1,0 +1,1639 @@
+{
+    "items": "33",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "What the Options Market Tells Us About ASML Holding - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/23/12/36044438/what-the-options-market-tells-us-about-asml-holding",
+            "time_published": "20231201T144649",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Benzinga's options scanner just detected over 8 options trades for ASML Holding ASML summing a total amount of $437,150. At the same time, our algo caught 5 for a total amount of 305,240.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.11011,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.098255",
+                    "ticker_sentiment_score": "0.042447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JPM",
+                    "relevance_score": "0.098255",
+                    "ticker_sentiment_score": "-0.143058",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.825544",
+                    "ticker_sentiment_score": "0.203177",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML turns to insider to be next CEO",
+            "url": "https://www.marketwatch.com/story/asml-turns-to-insider-to-be-next-ceo-d5fb5434",
+            "time_published": "20231130T091100",
+            "authors": [
+                "Steve Goldstein"
+            ],
+            "summary": "ASML Holding, arguably Europe's most important technology company, is turning to an insider to run the microchip-equipment making giant.",
+            "banner_image": "https://images.mktw.net/im-307220?width=700&height=467",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.025912,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "0.117393",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.177167",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JPM",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "0.073327",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.7887",
+                    "ticker_sentiment_score": "0.083538",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ASML Supervisory Board intends to appoint Christophe Fouquet as President and Chief Executive Officer - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/pressreleases/23/11/g36016096/asml-supervisory-board-intends-to-appoint-christophe-fouquet-as-president-and-chief-executive-offi",
+            "time_published": "20231130T060000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ASML Supervisory Board intends to appoint Christophe Fouquet as President and Chief Executive Officer ASML's Co-Presidents Peter Wennink and Martin van den Brink to retire on April 24, 2024Jim Koonmen to be appointed to the Board of Management as Chief Customer Officer",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.266472,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.809957",
+                    "ticker_sentiment_score": "0.56375",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Looking At ASML Holding's Recent Unusual Options Activity - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/23/11/36011229/looking-at-asml-holdings-recent-unusual-options-activity",
+            "time_published": "20231129T204552",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bullish stance on ASML Holding ASML. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.200439,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.088147",
+                    "ticker_sentiment_score": "0.041392",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.815958",
+                    "ticker_sentiment_score": "0.332473",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Nvidia Stock Wednesday? - NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/news/23/11/35997020/whats-going-on-with-nvidia-stock-wednesday",
+            "time_published": "20231129T151946",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Artificial intelligence kingpin Nvidia Corp NVDA is trading higher as it unlocks shareholder value and adds to its moat by extending its partnership with Amazon.Com Inc AMZN Amazon Web Services over new AI chips and tapping Chinese expertise to accomplish its autonomous vehicle ambitions.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/11/29/nvda_chip.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.37062,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.660192",
+                    "ticker_sentiment_score": "0.503332",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.214937",
+                    "ticker_sentiment_score": "0.33713",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.214937",
+                    "ticker_sentiment_score": "0.155188",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.214937",
+                    "ticker_sentiment_score": "0.262046",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 High-Growth Stocks That Could Be Worth $1 Trillion in 10 Years -- Or Sooner",
+            "url": "https://www.fool.com/investing/2023/11/29/2-high-growth-stocks-could-be-worth-1-trillion/",
+            "time_published": "20231129T144010",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "The secular growth opportunities these companies are sitting on could send their stocks soaring in the long run.",
+            "banner_image": "https://media.ycharts.com/charts/2e27399def6169916af1f63feacaf7b9.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.256329,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.205109",
+                    "ticker_sentiment_score": "0.174336",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.11122",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.284106",
+                    "ticker_sentiment_score": "0.203213",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.03075",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Semiconductor Manufacturing Equipment Market Poised For Remarkable Growth At A CAGR Of More Than 9% In Forecast Period As Per The Business Research Company's Semiconductor Manufacturing Equipment Global Market Report 2023",
+            "url": "https://www.benzinga.com/pressreleases/23/11/g35983489/semiconductor-manufacturing-equipment-market-poised-for-remarkable-growth-at-a-cagr-of-more-than-9",
+            "time_published": "20231128T163000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LONDON, Nov. 28, 2023 ( GLOBE NEWSWIRE ) -- As per The Business Research Company's semiconductor manufacturing equipment global market report 2023, the semiconductor manufacturing equipment market is anticipated to surge from $96.17 billion in 2022 to $105.18 billion in 2023, reflecting a robust ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.270222,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.037138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TOELF",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.037138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.037138",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Peering Into ASML Holding's Recent Short Interest - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/short-sellers/23/11/35966327/peering-into-asml-holdings-recent-short-interest",
+            "time_published": "20231127T191523",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "ASML Holding's ASML short percent of float has fallen 6.52% since its last report. The company recently reported that it has 1.72 million shares sold short, which is 0.43% of all regular shares that are available for trading.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.239316,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.426824",
+                    "ticker_sentiment_score": "0.247129",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "AVGO: Broadcom  ( AVGO )  vs. ASML  ( ASML )  - Analyzing the Semiconductor Stock Leader",
+            "url": "https://stocknews.com/news/avgo-asml-vmw-broadcom-avgo-vs-asml-asml-analyzing-the-semiconductor-stock/",
+            "time_published": "20231127T180309",
+            "authors": [
+                "StockNews.com Staff"
+            ],
+            "summary": "AVGO: Broadcom ( AVGO ) vs. ASML ( ASML ) - Analyzing the ... ...",
+            "banner_image": "https://stocknews.com/wp-content/uploads/2023/03/Nidhi-Agarwal_Headshot-3.jpg",
+            "source": "Stocknews.com",
+            "category_within_source": "n/a",
+            "source_domain": "stocknews.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.989041"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.291615,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "VMW",
+                    "relevance_score": "0.080865",
+                    "ticker_sentiment_score": "0.073244",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.423412",
+                    "ticker_sentiment_score": "0.300176",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.583313",
+                    "ticker_sentiment_score": "0.428456",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Evaluating ASML Holding Against Peers In Semiconductors & Semiconductor Equipment Industry - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/23/11/35941411/evaluating-asml-holding-against-peers-in-semiconductors-amp-semiconductor-equipment-industry",
+            "time_published": "20231124T160028",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.283146,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.065327",
+                    "ticker_sentiment_score": "0.040072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.539306",
+                    "ticker_sentiment_score": "0.374199",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dutch Stocks Nudge Upward On Thanksgiving After Anti-Islam, Trump-Fan Geert Wilders Wins Elections - ABN AMRO Bank  ( OTC:AAVMY ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/eurozone/23/11/35932615/dutch-stocks-nudge-upward-on-thanksgiving-after-anti-islam-trump-fan-geert-wilders-wins-election",
+            "time_published": "20231123T170307",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "Dutch stocks edged 0.3% higher in Amsterdam, albeit in thinner trading conditions owing to the U.S. Thanksgiving holiday. This reaction marked the first market test following the surprising victory of far-right anti-EU populist Geert Wilders in the Dutch elections.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/GeertsWilders-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.251204,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.177802",
+                    "ticker_sentiment_score": "0.1475",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dutch leader who backed Nupur Sharma on 'Prophet' row wins elections",
+            "url": "https://www.business-standard.com/world-news/dutch-leader-who-backed-nupur-sharma-on-prophet-row-wins-elections-123112301261_1.html",
+            "time_published": "20231123T165045",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "Far-right lawmaker Geert Wilders won the Dutch elections and said he plans to lead the country's next government, in a shock result that will resound across Europe. The frontrunner Dilan Yesilgoz-Zegerius conceded defeat after a late surge in the final days of the campaign catapulted Wilders's ...",
+            "banner_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-11/23/full/1700758133-7134.jpg?im=FeatureCrop,size=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.245649,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Decoding ASML Holding's Options Activity: What's the Big Picture? - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/23/11/35905589/decoding-asml-holdings-options-activity-whats-the-big-picture",
+            "time_published": "20231121T204548",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Financial giants have made a conspicuous bearish move on ASML Holding. Our analysis of options history for ASML Holding ASML revealed 25 unusual trades. Delving into the details, we found 48% of traders were bullish, while 52% showed bearish tendencies.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.120281,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.100308",
+                    "ticker_sentiment_score": "0.07582",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.792512",
+                    "ticker_sentiment_score": "0.178345",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "$1000 Invested In This Stock 5 Years Ago Would Be Worth $4,200 Today - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/23/11/35894791/1000-invested-in-this-stock-5-years-ago-would-be-worth-4-200-today",
+            "time_published": "20231121T140016",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "ASML Holding ASML has outperformed the market over the past 5 years by 21.75% on an annualized basis producing an average annual return of 32.87%. Currently, ASML Holding has a market capitalization of $273.56 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.980595",
+                    "ticker_sentiment_score": "0.386944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Big Players' Recent Trades in ASML Options - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/23/11/35874413/big-players-recent-trades-in-asml-options",
+            "time_published": "20231120T150248",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Deep-pocketed investors have adopted a bearish approach towards ASML Holding ASML, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.164424,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.073452",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.729947",
+                    "ticker_sentiment_score": "0.330823",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Lam Research, ASML Lead Surge In Revenue From China Despite US Trade Curbs - KLA  ( NASDAQ:KLAC ) , Applied Mat  ( NASDAQ:AMAT ) , Lam Research  ( NASDAQ:LRCX ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/23/11/35844625/lam-research-asml-lead-surge-in-revenue-from-china-despite-us-trade-curbs",
+            "time_published": "20231117T133904",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Leading chipmaking equipment manufacturers are experiencing a surge in revenue from China as the country stockpiles equipment to counter U.S. trade restrictions on advanced semiconductors. In the most recent quarter, significant chip suppliers of fabrication machinery obtained more than 40% of ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/11/17/bz_briefs_tech_2.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.099625,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.261117",
+                    "ticker_sentiment_score": "-0.400218",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.261117",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TOELF",
+                    "relevance_score": "0.132368",
+                    "ticker_sentiment_score": "0.184132",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "-0.172207",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.261117",
+                    "ticker_sentiment_score": "0.358669",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Photronics Scores Relative Strength Rating Upgrade; Hits Key Benchmark",
+            "url": "https://www.investors.com/ibd-data-stories/photronics-scores-relative-strength-rating-upgrade-hits-key-benchmark/",
+            "time_published": "20231115T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "Photronics Scores Relative Strength Rating Upgrade. Hits Key ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.296947,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.588876",
+                    "ticker_sentiment_score": "0.510696",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.318897",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.318897",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Photronics Stock Up 45% Since April: One To Watch",
+            "url": "https://www.investors.com/news/technology/stocks-to-watch-photronics-sees-rs-rating-jump-to-82/",
+            "time_published": "20231114T130000",
+            "authors": [
+                "JAMES DETAR",
+                "Investor's Business Daily",
+                "INVESTOR'S BUSINESS DAILY"
+            ],
+            "summary": "Semiconductor equipment maker Photronics ( PLAB ) had its Relative Strength ( RS ) Rating upgraded from 70 to 82 Monday, a significant upgrade. The 80 RS Rating is a key benchmark for CAN SLIM investors. Photronics stock closed at 20.11 Monday, down fractionally for the day but holding above its ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2017/06/Chips-Adobe-1-SSA-6.2.17.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.270666,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.596978",
+                    "ticker_sentiment_score": "0.42486",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.165598",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.165598",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Technology Mutual Funds to Invest in With Rate Hikes Stabilizing",
+            "url": "https://www.zacks.com/stock/news/2183764/3-technology-mutual-funds-to-invest-in-with-rate-hikes-stabilizing",
+            "time_published": "20231114T121900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "FELIX, JGLTX and PGTAX are three technology mutual funds that can give steady returns in the long run with interest rates staying at their current level.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a9/50722.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.178602,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.159922",
+                    "ticker_sentiment_score": "0.086741",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.159922",
+                    "ticker_sentiment_score": "0.086741",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.063951",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.066748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JHG",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.237859",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.066748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.066748",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Micron Faces Legal Battle and Revenue Dip as US-China Tensions Escalate - Micron Technology  ( NASDAQ:MU ) ",
+            "url": "https://www.benzinga.com/government/23/11/35750822/micron-faces-legal-battle-and-revenue-dip-as-us-china-tensions-escalate",
+            "time_published": "20231113T171156",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Chinese chipmaker Yangtze Memory Technologies Co filed a lawsuit against U.S. rival Micron Technology Inc MU for alleged infringement of eight of its patents at a time when the U.S. intensified its semiconductor technology restrictions on China.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/11/13/micron-company.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.045465,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.277433",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.405651",
+                    "ticker_sentiment_score": "-0.33187",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.277433",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.277433",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.277433",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.405651",
+                    "ticker_sentiment_score": "-0.041017",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Big Players' Recent Trades in ASML Options - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/23/11/35751037/big-players-recent-trades-in-asml-options",
+            "time_published": "20231113T144648",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "High-rolling investors have positioned themselves bearish on ASML Holding ASML, and it's important for retail traders to take note. \\This activity came to our attention today through Benzinga's tracking of publicly available options data.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.16957,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.084722",
+                    "ticker_sentiment_score": "0.072976",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JPM",
+                    "relevance_score": "0.084722",
+                    "ticker_sentiment_score": "-0.023111",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.758085",
+                    "ticker_sentiment_score": "0.272951",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Generating Improved Relative Strength: ASML Holding",
+            "url": "https://www.investors.com/ibd-data-stories/stocks-generating-improved-relative-strength-asml-holding/",
+            "time_published": "20231113T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "ASML Holding ( ASML ) saw a welcome improvement to its Relative Strength ( RS ) Rating on Monday, with an increase from 66 to 78. X When looking for the best stocks to buy and watch, one factor to watch closely is relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.403029,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.885652",
+                    "ticker_sentiment_score": "0.689098",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Axcelis Technologies Clears Key Benchmark, Hitting 80-Plus RS Rating",
+            "url": "https://www.investors.com/ibd-data-stories/axcelis-technologies-clears-key-benchmark-hitting-80-plus-rs-rating/",
+            "time_published": "20231113T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "Axcelis Technologies Clears Key Benchmark, Hitting 80-Plus RS ... Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.274399,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.77735",
+                    "ticker_sentiment_score": "0.446347",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.374312",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks To Watch: Photronics Sees RS Rating Jump To 82",
+            "url": "https://www.investors.com/ibd-data-stories/stocks-to-watch-photronics-sees-rs-rating-jump-to-82/",
+            "time_published": "20231113T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "Photronics ( PLAB ) had its Relative Strength ( RS ) Rating upgraded from 70 to 82 Monday. X When looking for the best stocks to buy and watch, one factor to watch closely is relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.258892,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.368773",
+                    "ticker_sentiment_score": "0.736225",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.368773",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.368773",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks To Watch: Entegris Sees Relative Strength Rating Rise To 87",
+            "url": "https://www.investors.com/ibd-data-stories/stocks-to-watch-entegris-sees-relative-strength-rating-rise-to-87/",
+            "time_published": "20231113T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "On Monday, Entegris ( ENTG ) cleared an important technical benchmark, seeing its Relative Strength ( RS ) Rating jump into the 80-plus percentile with an improvement to 87, up from 73 the day before. X When looking for the best stocks to buy and watch, one factor to watch closely is relative ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.287916,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ENTG",
+                    "relevance_score": "0.655281",
+                    "ticker_sentiment_score": "0.305362",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.363388",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.363388",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Comparative Study: ASML Holding And Industry Competitors In Semiconductors & Semiconductor Equipment Industry - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/23/11/35728451/comparative-study-asml-holding-and-industry-competitors-in-semiconductors-amp-semiconductor-equipmen",
+            "time_published": "20231110T160026",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Amidst today's fast-paced and highly competitive business environment, it is crucial for investors and industry enthusiasts to conduct comprehensive company evaluations.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                }
+            ],
+            "overall_sentiment_score": 0.239392,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.061631",
+                    "ticker_sentiment_score": "0.071028",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.560594",
+                    "ticker_sentiment_score": "0.329359",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Micron Technology Stock Thursday? - Micron Technology  ( NASDAQ:MU ) ",
+            "url": "https://www.benzinga.com/government/23/11/35696737/whats-going-on-with-micron-technology-stock-thursday",
+            "time_published": "20231109T143448",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Micron Technology, Inc MU stock is trading higher Thursday amid reports of the chip designer showcasing its latest technologies at the China International Import Expo. Close to 47 chip-related companies, including Qualcomm Inc QCOM, ASML Holding NV ASML, and Samsung Electronics Co SSNLF, are ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/11/09/micron-company.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.040182,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.666827",
+                    "ticker_sentiment_score": "0.201961",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.097792",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.481177",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nova Shows Rising Relative Strength; Still Shy Of Key Benchmark",
+            "url": "https://www.investors.com/ibd-data-stories/nova-shows-rising-relative-strength-still-shy-of-key-benchmark/",
+            "time_published": "20231109T080000",
+            "authors": [
+                "Investor's Business Daily",
+                "INVESTOR'S BUSINESS DAILY"
+            ],
+            "summary": "Nova Shows Rising Relative Strength. Still Shy Of Key Benchmark Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.202926,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVMI",
+                    "relevance_score": "0.612033",
+                    "ticker_sentiment_score": "0.361811",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ACLS",
+                    "relevance_score": "0.334008",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.334008",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Nvidia Stock Wednesday? - NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/government/23/11/35673661/whats-going-on-with-nvidia-stock-wednesday",
+            "time_published": "20231108T162239",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Nvidia Corp NVDA fueled speculations of its readiness to update its RTX 40 series cards in early 2024 after skipping the Super for the 30 series. The artificial intelligence kingpin will likely showcase its RTX 4070 Super and RTX 4080 Super GPUs at the Consumer Electronics Show in January 2024, ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/11/08/nvidia_wiki_-ms-8830_with_vanta-16_graphic_chip-3039.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.325641,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.357293",
+                    "ticker_sentiment_score": "0.319907",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.560594",
+                    "ticker_sentiment_score": "0.312686",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GMGT",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.24289",
+                    "ticker_sentiment_score": "0.126907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.24289",
+                    "ticker_sentiment_score": "0.391414",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.24289",
+                    "ticker_sentiment_score": "0.126907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.357293",
+                    "ticker_sentiment_score": "0.319907",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Micron, ASML and Samsung attend CIIE but Nvidia absent amid chip war",
+            "url": "https://www.scmp.com/tech/article/3240695/micron-asml-and-samsung-attract-attention-years-china-international-import-expo-amid-rising-chip",
+            "time_published": "20231108T000028",
+            "authors": [
+                "Ann Cao"
+            ],
+            "summary": "US, South Korean and Dutch semiconductor companies put up booths at CIIE in show of commitment to China market amid escalating US-China chip war.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/11/07/03fe53bb-3318-4c87-ac0b-f4fb33688732_6fe8eba7.jpg?itok=xRAvWZ_9&v=1699363689",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.127889,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.168884",
+                    "ticker_sentiment_score": "0.080585",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.150959",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.223866",
+                    "ticker_sentiment_score": "0.123165",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.330286",
+                    "ticker_sentiment_score": "0.253306",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.083923",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.108932",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.155181",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You Invested $1000 In This Stock 5 Years Ago, You Would Have $3,600 Today - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/23/11/35628416/if-you-invested-1000-in-this-stock-5-years-ago-you-would-have-3-600-today",
+            "time_published": "20231106T200044",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "ASML Holding ASML has outperformed the market over the past 5 years by 19.91% on an annualized basis producing an average annual return of 29.3%. Currently, ASML Holding has a market capitalization of $251.37 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.980595",
+                    "ticker_sentiment_score": "0.386944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML wants to speed up deliveries of mature lithography machines to China",
+            "url": "https://www.scmp.com/tech/article/3240290/dutch-chip-equipment-giant-asml-looks-speed-delivery-mature-lithography-machines-china-clients",
+            "time_published": "20231104T000014",
+            "authors": [
+                "Iris Deng"
+            ],
+            "summary": "China's 'current demand for mature node products remains very strong', says ASML senior vice-president and president of China arm.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/11/03/6e692a0f-e508-4292-aa1a-53470f32aee6_0c25b39f.jpg?itok=JldSK1g6&v=1699013399",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.096246,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.596651",
+                    "ticker_sentiment_score": "0.186391",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Holding Hits 80-Plus Relative Strength Rating Benchmark",
+            "url": "https://www.investors.com/ibd-data-stories/asml-holding-hits-80-plus-relative-strength-rating-benchmark-2/",
+            "time_published": "20231103T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "One important metric to look for in a stock is an 80 or higher Relative Strength Rating. ASML Holding ( ASML ) just hit that mark, with a jump from 73 to 81 Friday. When you're researching the best stocks to buy and watch, keep a close on eye on relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.344871,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.578355",
+                    "ticker_sentiment_score": "0.436729",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}

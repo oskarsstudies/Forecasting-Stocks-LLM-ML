@@ -1,0 +1,4192 @@
+{
+    "items": "56",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Intel's AI Business Is All Hype -- Here's the Real Reason for Optimism in 2024",
+            "url": "https://www.fool.com/investing/2024/02/03/intels-ai-business-is-all-hype-heres-the-real-reas/",
+            "time_published": "20240203T120500",
+            "authors": [
+                "Nicholas Rossolillo"
+            ],
+            "summary": "Just because Intel is losing the AI race doesn't mean there's zero value.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/763195/high-end-computing-cloud-pc.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.087888,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.073528",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.061631",
+                    "ticker_sentiment_score": "0.066111",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.811299",
+                    "ticker_sentiment_score": "0.164711",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.061631",
+                    "ticker_sentiment_score": "-0.053002",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Missed Out on Nvidia's Terrific Rally? Buy This Magnificent Artificial Intelligence  ( AI )  Stock Before It Goes on a Bull Run.",
+            "url": "https://www.fool.com/investing/2024/02/03/missed-out-on-nvidias-terrific-rally-buy-this-magn/",
+            "time_published": "20240203T102000",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "This chip stock has underperformed the broader market in the past year, but it could step on the gas following its latest results.",
+            "banner_image": "https://media.ycharts.com/charts/8322aab08f4fe17257df6deac35bbd15.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.256367,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.238133",
+                    "ticker_sentiment_score": "0.195901",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.603832",
+                    "ticker_sentiment_score": "0.292892",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Smart Money Is Betting Big In ASML Options - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/insights/options/24/01/36874097/smart-money-is-betting-big-in-asml-options",
+            "time_published": "20240131T191613",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bearish stance on ASML Holding. Looking at options history for ASML Holding ASML we detected 17 trades. If we consider the specifics of each trade, it is accurate to state that 47% of the investors opened trades with bullish ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.158858,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.041001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.827318",
+                    "ticker_sentiment_score": "0.257919",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is WisdomTree Europe Hedged Equity ETF  ( HEDJ )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2218454/is-wisdomtree-europe-hedged-equity-etf-hedj-a-strong-etf-right-now",
+            "time_published": "20240131T112005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default118.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.222394,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBVA",
+                    "relevance_score": "0.11894",
+                    "ticker_sentiment_score": "0.05848",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.291644",
+                    "ticker_sentiment_score": "0.150277",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.11894",
+                    "ticker_sentiment_score": "0.05848",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "IBD Rating Upgrades: Advanced Energy Inds Flashes Improved Price Strength",
+            "url": "https://www.investors.com/ibd-data-stories/ibd-rating-upgrades-advanced-energy-inds-flashes-improved-price-strength/",
+            "time_published": "20240130T080000",
+            "authors": [
+                "Investor's Business Daily",
+                "INVESTOR'S BUSINESS DAILY"
+            ],
+            "summary": "In a welcome move, Advanced Energy Inds ( AEIS ) saw its Relative Strength Rating improve from 69 to 74 on Tuesday. X When you're researching the best stocks to buy and watch, be sure to pay attention to relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.43319,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.334008",
+                    "ticker_sentiment_score": "0.321243",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.334008",
+                    "ticker_sentiment_score": "0.321243",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Stock Is Making Waves to Start 2024, But Is It a Buy Now?",
+            "url": "https://www.fool.com/investing/2024/01/28/asml-stock-is-making-waves-to-start-2024-but-is-it/",
+            "time_published": "20240128T111500",
+            "authors": [
+                "Nicholas Rossolillo"
+            ],
+            "summary": "The big takeaway: Revenue growth might come to a halt this year.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/762479/semiconductor-technician-with-wafer-in-manufacturing-plant.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.220134,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "0.322334",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.072876",
+                    "ticker_sentiment_score": "0.127832",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ASML Holding's Options: A Look at What the Big Money is Thinking - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/insights/options/24/01/36802055/asml-holdings-options-a-look-at-what-the-big-money-is-thinking",
+            "time_published": "20240126T144612",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Deep-pocketed investors have adopted a bullish approach towards ASML Holding ASML, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.195444,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.081552",
+                    "ticker_sentiment_score": "0.040851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.84827",
+                    "ticker_sentiment_score": "0.391559",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Stock Soars On Outstanding Earnings, Buys By Big Funds",
+            "url": "https://www.investors.com/news/technology/stocks-showing-market-leadership-asml-holding-earns-91-rs-rating/",
+            "time_published": "20240126T130000",
+            "authors": [
+                "Investor's Business Daily",
+                "INVESTOR'S BUSINESS DAILY",
+                "JAMES DETAR"
+            ],
+            "summary": "The chip sector is on fire as the artificial intelligence market takes off, driving demand for semiconductors and the gear to make them. It's no surprise then that chip equipment maker ASML Holding ( ASML ) keeps putting up terrific numbers. On Wednesday, ASML reported strong Q4 results.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2021/07/Stock-chipfactory-01-adobe.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.24431,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.145145",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACMR",
+                    "relevance_score": "0.145145",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.072876",
+                    "ticker_sentiment_score": "-0.062393",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.072876",
+                    "ticker_sentiment_score": "0.249491",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.727604",
+                    "ticker_sentiment_score": "0.296357",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "A Closer Look at ASML Holding's Options Market Dynamics - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/insights/options/24/01/36787773/a-closer-look-at-asml-holdings-options-market-dynamics",
+            "time_published": "20240125T190134",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bearish stance on ASML Holding. Looking at options history for ASML Holding ASML we detected 151 trades. If we consider the specifics of each trade, it is accurate to state that 48% of the investors opened trades with bullish ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.136041,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.095517",
+                    "ticker_sentiment_score": "0.042135",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.850133",
+                    "ticker_sentiment_score": "0.245196",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market News for Jan 25, 2024",
+            "url": "https://www.zacks.com/stock/news/2215724/stock-market-news-for-jan-25-2024",
+            "time_published": "20240125T142500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Wall Street closed mixed on Wednesday, led by a rally in energy and semiconductor stocks.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c1/13186.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.048157,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.226301",
+                    "ticker_sentiment_score": "0.26384",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.152018",
+                    "ticker_sentiment_score": "0.060167",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.152018",
+                    "ticker_sentiment_score": "0.199918",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "S&P 500 ekes out another record high as Netflix and chipmakers leap",
+            "url": "https://www.moneycontrol.com/news/business/markets/sp-500-ekes-out-another-record-high-as-netflix-and-chipmakers-leap-12120791.html",
+            "time_published": "20240125T010150",
+            "authors": [],
+            "summary": "Riding optimism about Wall Street's most valuable companies, Microsoft hit an all-time high, lifting its market value above $3 trillion for the first time.",
+            "banner_image": "https://images.moneycontrol.com/static-mcnews/2024/01/stocks5-1.jpg?impolicy=website&width=168&height=118",
+            "source": "Money Control",
+            "category_within_source": "Markets",
+            "source_domain": "www.moneycontrol.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.263872,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DD",
+                    "relevance_score": "0.081001",
+                    "ticker_sentiment_score": "-0.10907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.081001",
+                    "ticker_sentiment_score": "0.31467",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.239698",
+                    "ticker_sentiment_score": "0.376689",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.081001",
+                    "ticker_sentiment_score": "0.276477",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.16117",
+                    "ticker_sentiment_score": "0.155356",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.081001",
+                    "ticker_sentiment_score": "0.119232",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.081001",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.16117",
+                    "ticker_sentiment_score": "0.230591",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why ASML Stock Soared Today",
+            "url": "https://www.fool.com/investing/2024/01/24/why-asml-stock-soared-today/",
+            "time_published": "20240124T162017",
+            "authors": [
+                "Jon Quast"
+            ],
+            "summary": "It ended 2023 with a bang and it's preparing for a surge in 2025.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/762477/happy-businessperson-at-their-computer.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.073681,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.92757",
+                    "ticker_sentiment_score": "0.130803",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Textron Posts Upbeat Earnings, Joins ASML, Progressive And Other Big Stocks Moving Higher On Wednesday - Textron  ( NYSE:TXT ) ",
+            "url": "https://www.benzinga.com/news/24/01/36760125/textron-posts-upbeat-earnings-joins-asml-progressive-and-other-big-stocks-moving-higher-on-wednesday",
+            "time_published": "20240124T150843",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks traded higher, with the Nasdaq Composite gaining around 100 points on Wednesday. Shares of Textron Inc. TXT rose during Wednesday's session following upbeat quarterly earnings. Textron posted adjusted earnings of $1.60 per share, beating market estimates of $1.54 per share.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/01/24/image11.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.462303,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.496118",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "RR",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SAP",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZJYL",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.567617",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "FHN",
+                    "relevance_score": "0.353898",
+                    "ticker_sentiment_score": "0.425239",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.619247",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HRTX",
+                    "relevance_score": "0.353898",
+                    "ticker_sentiment_score": "0.569072",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TXT",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "0.540548",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "EDU",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.407994",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "QNST",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.567617",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "KURA",
+                    "relevance_score": "0.353898",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PGR",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EVER",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.74323",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TAL",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.74323",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Top 3 Tech Stocks That May Plunge This Month - LiveRamp Holdings  ( NYSE:RAMP ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/24/01/36756566/top-3-tech-stocks-that-may-plunge-this-month",
+            "time_published": "20240124T131435",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "As of Jan. 24, 2024, three stocks in the information technology sector could be flashing a real warning to investors who value momentum as a key criteria in their trading decisions. The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/01/24/image15.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.175967,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RAMP",
+                    "relevance_score": "0.306963",
+                    "ticker_sentiment_score": "0.18103",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.489394",
+                    "ticker_sentiment_score": "0.193606",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nasdaq, S&P 500 Futures Jump As Wall Street Eagerly Awaits Tesla's Q4 Earnings: Analyst Says Rally Broadening But Favors These Stocks - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/01/36755805/nasdaq-s-p-500-futures-jump-as-wall-street-eagerly-awaits-teslas-q4-earnings-analyst-says-rally-bro",
+            "time_published": "20240124T124145",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "U.S. stock futures indicate a positive opening on Wednesday, buoyed by strong earnings reports from Netflix, Inc. NFLX and semiconductor equipment maker ASML Holding N.V. ASML. Investors are eagerly awaiting Tesla, Inc.'s TSLA fourth-quarter results, which are expected to take center stage.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/Wall-Street-US-Stocks.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.181687,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.172919",
+                    "ticker_sentiment_score": "0.108241",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KMB",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "-0.100818",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXN",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "-0.139714",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.220007",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MMM",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "-0.100818",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.172919",
+                    "ticker_sentiment_score": "0.185069",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ABT",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.175759",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "T",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BACHY",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.123025",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FCX",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GD",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "-0.139714",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.206003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.175",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Asia Market Mostly Higher Along With Europe, Crude Oil and Gold - Global Markets Today While US Was Sleeping - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",
+            "url": "https://www.benzinga.com/markets/asia/24/01/36754521/asia-market-mostly-higher-along-with-europe-crude-oil-and-gold-global-markets-today-while-us-was-sle",
+            "time_published": "20240124T114025",
+            "authors": [
+                "Akanksha Bakshi"
+            ],
+            "summary": "On January 23rd, U.S. stock markets closed mixed, with the Dow Jones in red while the S&P 500 index achieved a third consecutive record high. Investors are keenly focused on the forthcoming reports from the 'Magnificent 7' megacaps, pivotal in shaping the trajectory of Wall Street's continuing ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/Asia-Stocks_4.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.105432,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.182142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SAP",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.373816",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.102888",
+                    "ticker_sentiment_score": "0.257666",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BACHY",
+                    "relevance_score": "0.102888",
+                    "ticker_sentiment_score": "-0.203402",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.373816",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML's Latest Earnings Reveal: A Lucrative Quarter Amid Rising Chip Demand - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/01/36753749/asmls-latest-earnings-reveal-a-lucrative-quarter-amid-rising-chip-demand",
+            "time_published": "20240124T104728",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "ASML Holding NV ( NASDAQ: ASML ) reported a fiscal fourth-quarter 2023 net sales of €7.2 billion, up 12.5% year-on-year. In USD, sales of $7.79 billion beat the consensus of $7.53 billion. The fourth quarter net bookings were €9.19 billion versus €6.32 billion a year ago.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/ASML-Logo.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.061177,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.265378",
+                    "ticker_sentiment_score": "0.160462",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.909909",
+                    "ticker_sentiment_score": "0.20686",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML orders jump due to soaring demand for cutting-edge machines",
+            "url": "https://www.marketwatch.com/story/asml-orders-jump-due-to-soaring-demand-for-cutting-edge-machines-17b1a7b6",
+            "time_published": "20240124T100900",
+            "authors": [
+                "Louis Goss"
+            ],
+            "summary": "The Dutch company received a record €9.2 billion worth of orders in the final quarter of 2023 in signs the global semiconductor slump is coming to an end ...",
+            "banner_image": "https://images.mktw.net/im-819817/social",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.202929,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.745999",
+                    "ticker_sentiment_score": "0.345281",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.147736",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: ASML, Microsoft and NetApp",
+            "url": "https://www.zacks.com/stock/news/2214696/zacks-investment-ideas-feature-highlights-asml-microsoft-and-netapp",
+            "time_published": "20240124T090300",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "ASML, Microsoft and NetApp have been highlighted in this Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983783"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.392604,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.22335",
+                    "ticker_sentiment_score": "0.284341",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NTAP",
+                    "relevance_score": "0.277118",
+                    "ticker_sentiment_score": "0.176476",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.277118",
+                    "ticker_sentiment_score": "0.267446",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML orders triple in fourth quarter amid soaring demand for advanced chip gear",
+            "url": "https://www.scmp.com/tech/big-tech/article/3249620/asml-orders-triple-fourth-quarter-amid-soaring-demand-advanced-chip-gear-especially-china",
+            "time_published": "20240124T085506",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "Order bookings rose to €9.19 billion in the fourth quarter from €2.6 billion in July to September in a sign of recovery for the chip industry.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2023/08/22/ep-3---chips.jpg?itok=zSgCMUCH",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.1171,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.633479",
+                    "ticker_sentiment_score": "0.112232",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ASML reports €27.6 billion net sales and €7.8 billion net income in 2023",
+            "url": "https://www.globenewswire.com/news-release/2024/01/24/2814732/0/en/ASML-reports-27-6-billion-net-sales-and-7-8-billion-net-income-in-2023.html",
+            "time_published": "20240124T060000",
+            "authors": [
+                "ASML Netherlands BV"
+            ],
+            "summary": "ASML reports €27.6 billion net sales and €7.8 billion net income in 2023 2024 expected to be a transition year with sales similar to 2023",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/0e922787-0d4f-4763-99ed-f3c70bdc20b1",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999966"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.179688,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.458446",
+                    "ticker_sentiment_score": "0.181248",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Stock: Top Analyst Pick As A 'FIFO' Beneficiary With 21% Upside Ahead Of Q4 Earnings - ASML Holding  ( NASDAQ:ASML ) , ASML Holding  ( OTC:ASMLF ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/01/36749218/asml-stock-top-analyst-pick-as-a-fifo-beneficiary-with-21-upside-ahead-of-q4-earnin",
+            "time_published": "20240123T232802",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "ASML Holding NV ASML will be reporting its fourth-quarter earnings on Jan. 24. Wall Street expects $5.27 in EPS and $7.53 billion in revenues as the company reports before market hours. ASML is a semiconductor production equipment ( SPE ) manufacturer.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/ASML-EF-Cleanroom-Qualification-Dec2020-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.160744,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.19661",
+                    "ticker_sentiment_score": "0.122039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.19661",
+                    "ticker_sentiment_score": "0.122039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.19661",
+                    "ticker_sentiment_score": "0.122039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.953596",
+                    "ticker_sentiment_score": "0.319345",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Holding  ( ASML )  to Post Q4 Earnings: What's in the Cards?",
+            "url": "https://www.zacks.com/stock/news/2214482/asml-holding-asml-to-post-q4-earnings-whats-in-the-cards",
+            "time_published": "20240123T180600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ASML Holding's (ASML) fourth-quarter results are likely to reflect benefits from strong momentum across EUV and DUV systems amid macroeconomic headwinds.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6e/54381.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998917"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.18708,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.140076",
+                    "ticker_sentiment_score": "0.103645",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.208764",
+                    "ticker_sentiment_score": "0.052606",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.71032",
+                    "ticker_sentiment_score": "0.509551",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Will Lead 2024 Double-Digit Semiconductor Stock Rally, Analysts Say Nvidia, Western Digital, ASML, NXP Semiconductors And GlobalFoundries Shine As Top Stock Picks For 2024: Analyst - Advanced Micro Devices  ( NASDAQ:AMD ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/01/36743662/nvidia-will-lead-2024-double-digit-semiconductor-stock-rally-analysts-say",
+            "time_published": "20240123T180432",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "A Cantor Fitzgerald initiating coverage report on the semiconductors and semiconductor equipment industry highlighted their top picks for 2024. On average, Cantor sees 14% upside in 2024 for the 18 stocks it included under its coverage.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/semiconductor-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.130926,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TER",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "-0.003346",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.070113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GFS",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.070113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "-0.003346",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "-0.003346",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.070113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WDC",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.070113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.070113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MRVL",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.124437",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "5 Technology Stocks Poised to Beat Earnings Estimates in Q4",
+            "url": "https://www.zacks.com/stock/news/2214235/5-technology-stocks-poised-to-beat-earnings-estimates-in-q4",
+            "time_published": "20240123T145000",
+            "authors": [
+                "Aniruddha Ganguly"
+            ],
+            "summary": "Here, we have picked five tech stocks, Apple (AAPL), Amphenol (APH), ASML (ASML), Fortive (FTV) and Meta Platforms (META), which are likely to pull off earnings surprises in fourth-quarter 2023.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/22/2547.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.222449,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.082001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APH",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FTV",
+                    "relevance_score": "0.165031",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.082001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: ASML Holding, Microsoft and NetApp",
+            "url": "https://www.zacks.com/stock/news/2213974/zacks-investment-ideas-feature-highlights-asml-holding-microsoft-and-netapp",
+            "time_published": "20240123T123900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ASML Holding, Microsoft and NetApp are part of the Zacks Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fd/423.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983783"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.392604,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.22335",
+                    "ticker_sentiment_score": "0.284341",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NTAP",
+                    "relevance_score": "0.277118",
+                    "ticker_sentiment_score": "0.176476",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.277118",
+                    "ticker_sentiment_score": "0.267446",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Buy-Rated Tech Stocks with Increasing Dividend Payouts",
+            "url": "https://www.zacks.com/commentary/2213715/3-buy-rated-tech-stocks-with-increasing-dividend-payouts",
+            "time_published": "20240122T195200",
+            "authors": [
+                "Derek Lewis"
+            ],
+            "summary": "Tech's momentum is impossible to ignore. For those seeking exposure paired with a passive income stream, all three of these stocks fit that criteria nicely.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ce/43337.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983783"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.390415,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.277748",
+                    "ticker_sentiment_score": "0.332758",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NTAP",
+                    "relevance_score": "0.381255",
+                    "ticker_sentiment_score": "0.283567",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.330286",
+                    "ticker_sentiment_score": "0.315688",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "China buys near-record $40 bn of chip making gear to beat US curbs",
+            "url": "https://www.business-standard.com/world-news/china-buys-near-record-40-bn-of-chip-making-gear-to-beat-us-curbs-124012201062_1.html",
+            "time_published": "20240122T175313",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "China's imports of chipmaking machines jumped last year as firms ramped up investment in an attempt to get around US-led efforts to hobble the nation's semiconductor industry.",
+            "banner_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-01/22/full/1705945711-0081.jpg?im=Resize=(640,480)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.04235,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.1331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "China buys near-record $40 bn of chip making gear to beat US curbs",
+            "url": "https://www.business-standard.com/amp/world-news/china-buys-near-record-40-bn-of-chip-making-gear-to-beat-us-curbs-124012201062_1.html",
+            "time_published": "20240122T175313",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "China's imports of chipmaking machines jumped last year as firms ramped up investment in an attempt to get around US-led efforts to hobble the nation's semiconductor industry.",
+            "banner_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-01/22/full/1705945648-1693.jpg",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.04235,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.1331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's in the Cards for Lam Research  ( LRCX )  in Q2 Earnings?",
+            "url": "https://www.zacks.com/stock/news/2213619/whats-in-the-cards-for-lam-research-lrcx-in-q2-earnings",
+            "time_published": "20240122T165300",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Lam Research's (LRCX) fiscal second-quarter 2024 results are expected to reflect strength in 3D DRAM and advanced packaging amid a slowdown in memory spending.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c0/53200.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999981"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.115326,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.512373",
+                    "ticker_sentiment_score": "0.287879",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.182967",
+                    "ticker_sentiment_score": "0.047598",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.182967",
+                    "ticker_sentiment_score": "0.122975",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.122581",
+                    "ticker_sentiment_score": "0.173949",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is a Surprise Coming for ASML Holding  ( ASML )  This Earnings Season?",
+            "url": "https://www.zacks.com/stock/news/2213344/is-a-surprise-coming-for-asml-holding-asml-this-earnings-season",
+            "time_published": "20240122T134400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ASML Holding (ASML) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/19/1136.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99237"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.459663,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.895116",
+                    "ticker_sentiment_score": "0.601508",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia's Key Market China Wants To Beat US Embargo, Boosts Chipmaking Machinery Imports by 14% - Advanced Micro Devices  ( NASDAQ:AMD ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/government/24/01/36714857/nvidias-key-market-china-wants-to-beat-us-embargo-boosts-chipmaking-machinery-imports-by-14",
+            "time_published": "20240122T132254",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "In 2023, China witnessed a significant 14% increase in imports of chipmaking machines, reaching nearly $40 billion, despite a general decline of 5.5% in total imports.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/ASML-EUV-Machine-Company.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.138065,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.151064",
+                    "ticker_sentiment_score": "-0.110804",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.495015",
+                    "ticker_sentiment_score": "0.088032",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIDU",
+                    "relevance_score": "0.151064",
+                    "ticker_sentiment_score": "0.034668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.151064",
+                    "ticker_sentiment_score": "0.232392",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.075874",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.075874",
+                    "ticker_sentiment_score": "-0.087907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.151064",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Comcast  ( CMCSA )  to Report Q4 Earnings: What's in the Cards?",
+            "url": "https://www.zacks.com/stock/news/2213296/comcast-cmcsa-to-report-q4-earnings-whats-in-the-cards",
+            "time_published": "20240122T123800",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Comcast's (CMCSA) fourth-quarter 2023 results are expected to reflect a slowing broadband subscriber base, offset by a steady performance of theme parks and the Peacock streaming service.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/38/443.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998917"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.186551,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.158173",
+                    "ticker_sentiment_score": "0.041767",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCZ",
+                    "relevance_score": "0.260559",
+                    "ticker_sentiment_score": "-0.011845",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.158173",
+                    "ticker_sentiment_score": "0.112688",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.053035",
+                    "ticker_sentiment_score": "0.2378",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Stock Upgrades: Advanced Energy Inds Shows Rising Relative Strength",
+            "url": "https://www.investors.com/ibd-data-stories/stock-upgrades-advanced-energy-inds-shows-rising-relative-strength-2/",
+            "time_published": "20240122T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "On Monday, Advanced Energy Inds ( AEIS ) earned a positive adjustment to its Relative Strength ( RS ) Rating, from 66 to 73. When looking for the best stocks to buy and watch, keep a close on eye on relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.486326,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.348103",
+                    "ticker_sentiment_score": "0.330871",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.348103",
+                    "ticker_sentiment_score": "0.330871",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The 4 most important things we're watching in the stock market this coming week",
+            "url": "https://www.cnbc.com/2024/01/20/4-most-important-things-were-watching-in-the-stock-market-this-week.html",
+            "time_published": "20240120T151348",
+            "authors": [
+                "Zev Fima"
+            ],
+            "summary": "On tap: A handful of key economic updates and a ramp up of quarterly earnings reports.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107228796-16820124152023-04-20t170239z_662865409_rc2gi0azj08i_rtrmadp_0_procter-gamble-discounts.jpeg?v=1682077018&w=1920&h=1080",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.98396"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.050355,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SMBK",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LVS",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SASR",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GSBC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RJF",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OLN",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RBB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.063313",
+                    "ticker_sentiment_score": "0.109065",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CZBS",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FIZN",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WDC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VBTX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LBRT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FNLC",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.025984",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KMB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.239932",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FXNC",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.025984",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEBO",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKR",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FRBA",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AIT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CASH",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKU",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TFIN",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVLG",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WSBC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FCX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PGR",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HXL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CFB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PCAR",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UAL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ONB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.023582",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AGNC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXN",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "URI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OFG",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EWBC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KNX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HAFC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VLO",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CACI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNUN",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COF",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LHX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.255971",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VLY",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RMD",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SFNC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.063313",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HAL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UCBI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CFFN",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ETD",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BOKF",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRST",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APPF",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TAL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBTX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ALK",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BLFY",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DCOM",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LOGI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNXC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRN",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GNTX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ALV",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AUB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ELV",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EFSG",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EDU",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HBT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MMYT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SYF",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOC",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHW",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "-0.106994",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZIONL",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MUR",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MMM",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PKG",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BFST",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MNRO",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNST",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRMK",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STLD",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FHB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SAP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HBCP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MBLY",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNB",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "-0.025109",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FCCO",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.239932",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UNP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CBU",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GD",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AGYS",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GE",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.239932",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVRX",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCI",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TDY",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAH",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBS",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LUV",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCRH",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMUS",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "-0.028099",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WTBA",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.063313",
+                    "ticker_sentiment_score": "-0.020003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APH",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TEL",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.029072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCZ",
+                    "relevance_score": "0.021124",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COLB",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRO",
+                    "relevance_score": "0.042234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock Split Watch: Is ASML Holding Next?",
+            "url": "https://www.fool.com/investing/2024/01/20/stock-split-watch-is-asml-holding-next/",
+            "time_published": "20240120T141500",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "Shares have risen over 1,500% since the company's last split.",
+            "banner_image": "https://media.ycharts.com/charts/6f819e364127754afd32171906d7a31f.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.865346"
+                }
+            ],
+            "overall_sentiment_score": 0.195748,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.327366",
+                    "ticker_sentiment_score": "0.334763",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Netflix, GE Earnings: Investing Action Plan",
+            "url": "https://www.investors.com/research/investing-action-plan/tesla-netflix-ge-earnings-investing-action-plan/",
+            "time_published": "20240119T220000",
+            "authors": [
+                "Investor's Business Daily",
+                "IBD STAFF"
+            ],
+            "summary": "The Nasdaq set a hot pace as the market's rally hammered out yet another weekly gain. The S&P 500 turned early-week losses into a 1.5% advance, taking a record high. The Dow rose 0.7% to test resistance just below 38,000. IBD continues to hold its exposure recommendation to between 80% and 100%.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2018/04/stock-GE-12-company.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999998"
+                }
+            ],
+            "overall_sentiment_score": 0.104897,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.015303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.206685",
+                    "ticker_sentiment_score": "0.142639",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UAL",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.145709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GTLB",
+                    "relevance_score": "0.138663",
+                    "ticker_sentiment_score": "0.136532",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTU",
+                    "relevance_score": "0.138663",
+                    "ticker_sentiment_score": "0.136532",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LOGI",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.050162",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.042131",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXN",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.015303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAL",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.145709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.015303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXT",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.05994",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "-0.054788",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.172836",
+                    "ticker_sentiment_score": "0.038869",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.172836",
+                    "ticker_sentiment_score": "0.001425",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.015303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "0.154859",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RCL",
+                    "relevance_score": "0.138663",
+                    "ticker_sentiment_score": "0.136532",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SAVE",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.145709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HXL",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "-0.05994",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.069596",
+                    "ticker_sentiment_score": "0.103426",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AFRM",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "0.120286",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GE",
+                    "relevance_score": "0.138663",
+                    "ticker_sentiment_score": "0.008798",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's in the Offing for Texas Instruments  ( TXN )  in Q4 Earnings?",
+            "url": "https://www.zacks.com/stock/news/2213026/whats-in-the-offing-for-texas-instruments-txn-in-q4-earnings",
+            "time_published": "20240119T185500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Texas Instruments' (TXN) fourth-quarter 2023 results are likely to reflect the adverse effects of inventory reduction on the Analog and Embedded Processing segments.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fc/1470.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999682"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.099249,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.201803",
+                    "ticker_sentiment_score": "0.049679",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.201803",
+                    "ticker_sentiment_score": "0.133825",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXN",
+                    "relevance_score": "0.449219",
+                    "ticker_sentiment_score": "0.103484",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's How Much You Would Have Made Owning ASML Holding Stock In The Last 10 Years - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/insights/news/24/01/36698720/heres-how-much-you-would-have-made-owning-asml-holding-stock-in-the-last-10-years",
+            "time_published": "20240119T173022",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "ASML Holding ASML has outperformed the market over the past 10 years by 13.74% on an annualized basis producing an average annual return of 23.85%. Currently, ASML Holding has a market capitalization of $295.29 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.980595",
+                    "ticker_sentiment_score": "0.386944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Holding Shows Rising Price Performance With Jump To 85 RS Rating",
+            "url": "https://www.investors.com/ibd-data-stories/asml-holding-shows-rising-price-performance-with-jump-to-85-rs-rating/",
+            "time_published": "20240119T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "One important metric to look for in a stock is an 80 or higher Relative Strength Rating. ASML Holding ( ASML ) cleared that benchmark Friday, with a jump from 80 to 85 Friday. X When looking for the best stocks to buy and watch, one factor to watch closely is relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.139016,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "0.490943",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "FormFactor Shows Rising Price Performance With Jump To 92 RS Rating",
+            "url": "https://www.investors.com/ibd-data-stories/formfactor-shows-rising-price-performance-with-jump-to-92-rs-rating/",
+            "time_published": "20240119T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "On Friday, FormFactor ( FORM ) reached an important technical milestone, seeing its Relative Strength ( RS ) Rating jump into the 90-plus percentile with an improvement to 92, up from 89 the day before. X As you try to find the best stocks to buy and watch, be sure to pay attention to ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.31032,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACMR",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.152499",
+                    "ticker_sentiment_score": "0.241986",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FORM",
+                    "relevance_score": "0.558244",
+                    "ticker_sentiment_score": "0.40127",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Applied Materials and ASML Holding Stocks Bounced Nearly 5% Higher Today",
+            "url": "https://www.fool.com/investing/2024/01/18/why-applied-materials-and-asml-holding-stocks-boun/",
+            "time_published": "20240118T234844",
+            "authors": [
+                "Eric Volkman"
+            ],
+            "summary": "Demand for processors is clearly strong and rising.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/761846/finger-about-to-press-a-green-dollar-sign-key-on-a-pc-keyboard.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.375336,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.334889",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.334889",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.192334",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Chip Equipment Maker Rallies With Chip Stocks",
+            "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/chip-equipment-maker-rallies-with-chip-stocks/",
+            "time_published": "20240118T194500",
+            "authors": [
+                "KIMBERLEY KOENIG",
+                "Investor's Business Daily"
+            ],
+            "summary": "ASML Holding ( ASML ) is this week's Big Cap 20 stock. The chip-equipment maker found support at an important chart level. ASML stock rallied in sympathy with chip stocks Thursday.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2022/10/Stock-ASML-EUVtrainer-01-company.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998962"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.218996,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.145583",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.687109",
+                    "ticker_sentiment_score": "0.371624",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BCO",
+                    "relevance_score": "0.073098",
+                    "ticker_sentiment_score": "0.072489",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.145583",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "AI Drives Tech Rebound, Oil Soars, Bitcoin Tumbles: What's Driving Markets Thursday? - Applied Mat  ( NASDAQ:AMAT ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/01/36684376/ai-drives-tech-rebound-oil-soars-bitcoin-tumbles-whats-driving-markets-thursday",
+            "time_published": "20240118T192226",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "During midday Thursday trading in New York, U.S. stocks displayed mixed performance, with the technology sector outperforming others as investors maintained a bullish outlook on artificial intelligence, temporarily setting aside concerns about interest rates.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/artificial-intelligence.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.997902"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.109604,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.211926",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HTZ",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.004691",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DFS",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "-0.140648",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TFC",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.059194",
+                    "ticker_sentiment_score": "-0.170006",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVCR",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "-0.183777",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "-0.191902",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FAST",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KEY",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "-0.140648",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MRVL",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.102303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.067894",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.176287",
+                    "ticker_sentiment_score": "0.168647",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML Holding's Options Frenzy: What You Need to Know - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/24/01/36663450/asml-holdings-options-frenzy-what-you-need-to-know",
+            "time_published": "20240117T163055",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bearish stance on ASML Holding. Looking at options history for ASML Holding ASML we detected 14 trades. If we consider the specifics of each trade, it is accurate to state that 28% of the investors opened trades with bullish ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.098586,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "0.043188",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.809819",
+                    "ticker_sentiment_score": "0.186951",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "MKS Instruments Reaches 80-Plus Relative Strength Rating Benchmark",
+            "url": "https://www.investors.com/ibd-data-stories/mks-instruments-reaches-80-plus-relative-strength-rating-benchmark/",
+            "time_published": "20240117T080000",
+            "authors": [
+                "INVESTOR'S BUSINESS DAILY",
+                "Investor's Business Daily"
+            ],
+            "summary": "When putting together your watch list, look for stocks with an 80 or higher RS Rating. MKS Instruments ( MKSI ) just met that criteria with a new score of 83. When looking for the best stocks to buy and watch, be sure to pay attention to relative price strength.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.192489,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MKSI",
+                    "relevance_score": "0.644033",
+                    "ticker_sentiment_score": "0.285915",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.355588",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.355588",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What Awaits Taiwan Semiconductors  ( TSM )  in Q4 Earnings?",
+            "url": "https://www.zacks.com/stock/news/2210926/what-awaits-taiwan-semiconductors-tsm-in-q4-earnings",
+            "time_published": "20240116T165600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Taiwan Semiconductor's (TSM) fourth-quarter 2023 results are expected to reflect gains from its robust technology portfolio amid macroeconomic challenges.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/22/2547.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999756"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.128894,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.208764",
+                    "ticker_sentiment_score": "0.063796",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.208764",
+                    "ticker_sentiment_score": "0.137358",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.463192",
+                    "ticker_sentiment_score": "-0.091529",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights NVIDIA, Photronics, ASML Holding and Micron Technology",
+            "url": "https://www.zacks.com/stock/news/2209444/the-zacks-analyst-blog-highlights-nvidia-photronics-asml-holding-and-micron-technology",
+            "time_published": "20240112T140300",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "NVIDIA, Photronics, ASML Holding and Micron Technology are part of the Zacks top Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/83/1947.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998626"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.155855,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.227432",
+                    "ticker_sentiment_score": "0.134968",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.271274",
+                    "ticker_sentiment_score": "0.100515",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.182851",
+                    "ticker_sentiment_score": "0.137417",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.314246",
+                    "ticker_sentiment_score": "0.175958",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Chipmaking Giant ASML at the Heart of U.S.-China Tech Battle: Export Bans and Global Implications - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/government/24/01/36591828/chipmaking-giant-asml-at-the-heart-of-u-s-china-tech-battle-export-bans-and-global-implications",
+            "time_published": "20240111T202535",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "ASML Holding N.V. ASML, a Dutch firm specializing in advanced chipmaking technology, faced increased scrutiny in U.S.-China relations as China's Minister of Commerce, Wang Wentao, expressed \"grave concerns\" to U.S. Commerce Secretary Gina Raimondo during a recent call.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/01/11/asml_euv_machine-company.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.13858,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.159569",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.237358",
+                    "ticker_sentiment_score": "0.165725",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.385286",
+                    "ticker_sentiment_score": "-0.117813",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Garmin  ( GRMN )  Boosts Smartwatch Offerings With Lily 2 Series",
+            "url": "https://www.zacks.com/stock/news/2208984/garmin-grmn-boosts-smartwatch-offerings-with-lily-2-series",
+            "time_published": "20240111T161600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Garmin (GRMN) launches the Lily 2 series - its next generation of petite and fashionable smartwatches, comprising two models - Lily 2 and Lily 2 Classic.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/90/1326.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.3958,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CAMT",
+                    "relevance_score": "0.339978",
+                    "ticker_sentiment_score": "0.201839",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GRMN",
+                    "relevance_score": "0.51845",
+                    "ticker_sentiment_score": "0.493283",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "EVBG",
+                    "relevance_score": "0.339978",
+                    "ticker_sentiment_score": "0.141044",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.339978",
+                    "ticker_sentiment_score": "0.256596",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "4 Solid Semiconductor Stocks to Buy in a Promising 2024",
+            "url": "https://www.zacks.com/stock/news/2208718/4-solid-semiconductor-stocks-to-buy-in-a-promising-2024",
+            "time_published": "20240111T125600",
+            "authors": [
+                "Ritujay Ghosh"
+            ],
+            "summary": "Semiconductor sales are soaring, which is helping stocks like NVIDIA Corporation (NVDA), Photronics, Inc. (PLAB), ASML Holding N.V. (ASML) and Micron Technology, Inc. (MU).",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9e/709.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998626"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.167806,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.197413",
+                    "ticker_sentiment_score": "0.19578",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLAB",
+                    "relevance_score": "0.245339",
+                    "ticker_sentiment_score": "0.165093",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.179597",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.29234",
+                    "ticker_sentiment_score": "0.270148",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is SPDR MSCI EAFE StrategicFactors ETF  ( QEFA )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2208664/is-spdr-msci-eafe-strategicfactors-etf-qefa-a-strong-etf-right-now",
+            "time_published": "20240111T112006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default35.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999986"
+                }
+            ],
+            "overall_sentiment_score": 0.186619,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NSRGF",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.054977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STT",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.035978",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.061379",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Comparative Study: ASML Holding And Industry Competitors In Semiconductors & Semiconductor Equipment Industry - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/24/01/36578917/comparative-study-asml-holding-and-industry-competitors-in-semiconductors-amp-semiconductor-equipmen",
+            "time_published": "20240110T160017",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "In the ever-changing and fiercely competitive business landscape, conducting thorough company analysis is crucial for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating ASML Holding ASML and its primary competitors in the ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.253958,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.064973",
+                    "ticker_sentiment_score": "0.040064",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.585052",
+                    "ticker_sentiment_score": "0.335265",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Behind the Scenes of ASML Holding's Latest Options Trends - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/options/24/01/36538433/behind-the-scenes-of-asml-holdings-latest-options-trends",
+            "time_published": "20240108T164532",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bearish stance on ASML Holding. Looking at options history for ASML Holding ASML we detected 20 trades. If we consider the specifics of each trade, it is accurate to state that 20% of the investors opened trades with bullish ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.108142,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.114682",
+                    "ticker_sentiment_score": "0.044675",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.805739",
+                    "ticker_sentiment_score": "0.202377",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Intel Is Selling a Stake in Its AI Software Business -- Does That Make Intel Stock a Buy for 2024?",
+            "url": "https://www.fool.com/investing/2024/01/08/intel-selling-a-stake-in-its-ai-software-business/",
+            "time_published": "20240108T114500",
+            "authors": [
+                "Nicholas Rossolillo"
+            ],
+            "summary": "Intel may be about to tap its piggy bank again as it gears up for massive chip manufacturing spending.",
+            "banner_image": "https://media.ycharts.com/charts/6768b2c082436123aacea4c57186d00b.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.145156,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.129052",
+                    "ticker_sentiment_score": "0.153553",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DBRG",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.12758",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.840852",
+                    "ticker_sentiment_score": "0.22859",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "0.046577",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.055017",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "$100 Invested In ASML Holding 5 Years Ago Would Be Worth This Much Today - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/news/24/01/36511384/100-invested-in-asml-holding-5-years-ago-would-be-worth-this-much-today",
+            "time_published": "20240105T153017",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "ASML Holding ASML has outperformed the market over the past 5 years by 22.41% on an annualized basis producing an average annual return of 35.25%. Currently, ASML Holding has a market capitalization of $276.74 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.980595",
+                    "ticker_sentiment_score": "0.386944",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}
